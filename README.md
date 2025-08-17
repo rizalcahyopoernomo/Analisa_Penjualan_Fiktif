@@ -38,3 +38,4 @@ Setelah menggali data, saya menemukan tiga insight utama yang bisa menjadi dasar
 
 Semua analisis dan insight di atas saya rangkum dalam sebuah dashboard visual yang ringkas.
 
+https://github.com/rizalcahyopoernomo/Analisa_Penjualan_Fiktif/blob/main/1000089649.png
