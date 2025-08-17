@@ -1,0 +1,701 @@
+ID_Transaksi,Tanggal_Transaksi,Nama_Produk,Kategori_Produk,Nama_Pelanggan,Kota,Channel_Penjualan,Jumlah_Beli,Harga_Satuan,Diskon_Persen,Kode_Status_Pengiriman
+TRX001,2024-01-05 08:30:15,iPhone 15,Smartphone, Budi Santoso,Jakarta,Website,1,21000000,10,DLV-02
+TRX002,2024-01-05 14:22:30,Samsung Galaxy S24,Smartphone,Siti Lestari ,Bandung,Mobile App,1,18500000,10,DLV-02
+TRX003,2024-01-05 19:45:10,Sony WH-1000XM5,Audio,Agus Wijaya,Jakarta,In-Store,2,5500000,0,DLV-02
+TRX004,2024-01-06 09:10:05,Dell XPS 15,Laptop,Dewi Puspita,Surabaya,Website,1,32000000,15,SHP-01
+TRX005,2024-01-06 11:55:45,Apple Watch Series 9,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,7500000,5,DLV-02
+TRX006,2024-01-06 16:20:00,MacBook Air M2,Laptop,Budi Santoso,Jakarta,Website,1,23000000,10,DLV-02
+TRX007,2024-01-07 21:05:30,JBL Charge 5,Audio,Fitri Handayani,Bandung,In-Store,1,2500000,0,DLV-02
+TRX008,2024-01-07 13:15:20,Samsung Odyssey G9,Monitor,Gilang Ramadhan,Surabaya,Mobile App,1,28000000,15,SHP-01
+TRX009,2024-01-07 10:40:10,Logitech MX Master 3S,Aksesoris,Hana Yuliana,Jakarta,Website,1,1800000,5,RTN-03
+TRX010,2024-01-08 18:00:55,Google Pixel 8,Smartphone,Indra Maulana,Medan,Mobile App,1,15000000,10,DLV-02
+TRX011,2024-01-08 12:30:00,AirPods Pro 2,Audio,Joko Susilo,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX012,2024-01-08 15:10:40,ASUS ROG Zephyrus G14,Laptop,Agus Wijaya,Jakarta,Website,1,29500000,15,CNL-04
+TRX013,2024-01-09 17:50:25,Anker PowerCore 10000,Aksesoris,Siti Lestari ,Bandung,Mobile App,3,500000,5,DLV-02
+TRX014,2024-01-09 20:25:15,LG UltraGear 27,Monitor,Budi Santoso,Jakarta,Website,1,9500000,10,DLV-02
+TRX015,2024-01-09 14:05:05,Xiaomi 14,Smartphone,Kartika Sari,Semarang,In-Store,1,12000000,0,DLV-02
+TRX016,2024-01-10 11:35:50,Lenovo ThinkPad X1 Carbon,Laptop,Lina Marlina,Surabaya,Mobile App,1,35000000,15,SHP-01
+TRX017,2024-01-10 09:00:30,Bose QuietComfort Ultra,Audio,Mega Wati,Jakarta,Website,1,6200000,5,DLV-02
+TRX018,2024-01-10 10:10:20,HP Spectre x360,Laptop,Nanda Putra,Bandung,Mobile App,1,26000000,10,DLV-02
+TRX019,2024-01-11 16:45:10,Samsung Galaxy Watch 6,Aksesoris,Putri Amelia,Jakarta,In-Store,1,5000000,0,DLV-02
+TRX020,2024-01-11 19:20:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,15,SHP-01
+TRX021,2024-02-12 08:45:10,iPhone 15,Smartphone, Eko Prasetyo ,Yogyakarta,Website,1,21000000,10,DLV-02
+TRX022,2024-02-12 15:30:20,Samsung Galaxy S24,Smartphone,Fitri Handayani,Bandung,Mobile App,1,18500000,10,DLV-02
+TRX023,2024-02-12 20:00:00,Sony WH-1000XM5,Audio,Gilang Ramadhan,Surabaya,In-Store,1,5500000,0,DLV-02
+TRX024,2024-02-13 09:30:00,Dell XPS 15,Laptop,Hana Yuliana,Jakarta,Website,1,32000000,15,SHP-01
+TRX025,2024-02-13 12:10:30,Apple Watch Series 9,Aksesoris,Indra Maulana,Medan,Mobile App,2,7500000,5,DLV-02
+TRX026,2024-02-13 17:00:15,MacBook Air M2,Laptop,Joko Susilo,Jakarta,Website,1,23000000,10,DLV-02
+TRX027,2024-02-14 21:30:50,JBL Charge 5,Audio,Kartika Sari,Semarang,In-Store,1,2500000,0,DLV-02
+TRX028,2024-02-14 14:00:45,Samsung Odyssey G9,Monitor,Lina Marlina,Surabaya,Mobile App,1,28000000,15,SHP-01
+TRX029,2024-02-14 11:00:00,Logitech MX Master 3S,Aksesoris,Mega Wati,Jakarta,Website,1,1800000,5,DLV-02
+TRX030,2024-02-15 18:30:30,Google Pixel 8,Smartphone,Nanda Putra,Bandung,Mobile App,1,15000000,10,RTN-03
+TRX031,2024-02-15 13:00:10,AirPods Pro 2,Audio,Putri Amelia,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX032,2024-02-15 16:00:00,ASUS ROG Zephyrus G14,Laptop,Siti Lestari ,Bandung,Website,1,29500000,15,DLV-02
+TRX033,2024-02-16 18:20:20,Anker PowerCore 10000,Aksesoris,Budi Santoso,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX034,2024-02-16 20:45:00,LG UltraGear 27,Monitor,Agus Wijaya,Jakarta,Website,1,9500000,10,CNL-04
+TRX035,2024-02-16 14:30:40,Xiaomi 14,Smartphone,Dewi Puspita,Surabaya,In-Store,1,12000000,0,DLV-02
+TRX036,2024-02-17 11:50:10,Lenovo ThinkPad X1 Carbon,Laptop,Hana Yuliana,Jakarta,Mobile App,1,35000000,15,SHP-01
+TRX037,2024-02-17 09:15:00,Bose QuietComfort Ultra,Audio, Eko Prasetyo ,Yogyakarta,Website,1,6200000,5,DLV-02
+TRX038,2024-02-17 10:30:00,HP Spectre x360,Laptop,Fitri Handayani,Bandung,Mobile App,1,26000000,10,DLV-02
+TRX039,2024-02-18 17:00:00,Samsung Galaxy Watch 6,Aksesoris,Gilang Ramadhan,Surabaya,In-Store,2,5000000,0,DLV-02
+TRX040,2024-02-18 19:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,15,SHP-01
+TRX041,2024-03-10 09:00:00,iPhone 15,Smartphone, Indra Maulana,Medan,Website,1,21000000,10,DLV-02
+TRX042,2024-03-10 16:00:00,Samsung Galaxy S24,Smartphone,Joko Susilo,Jakarta,Mobile App,1,18500000,10,DLV-02
+TRX043,2024-03-10 20:30:00,Sony WH-1000XM5,Audio,Kartika Sari,Semarang,In-Store,1,5500000,0,DLV-02
+TRX044,2024-03-11 10:00:00,Dell XPS 15,Laptop,Lina Marlina,Surabaya,Website,1,32000000,15,SHP-01
+TRX045,2024-03-11 12:45:00,Apple Watch Series 9,Aksesoris,Mega Wati,Jakarta,Mobile App,1,7500000,5,DLV-02
+TRX046,2024-03-11 17:30:00,MacBook Air M2,Laptop,Nanda Putra,Bandung,Website,1,23000000,10,DLV-02
+TRX047,2024-03-12 22:00:00,JBL Charge 5,Audio,Putri Amelia,Jakarta,In-Store,1,2500000,0,RTN-03
+TRX048,2024-03-12 14:30:00,Samsung Odyssey G9,Monitor,Siti Lestari ,Bandung,Mobile App,1,28000000,15,SHP-01
+TRX049,2024-03-12 11:30:00,Logitech MX Master 3S,Aksesoris,Budi Santoso,Jakarta,Website,2,1800000,5,DLV-02
+TRX050,2024-03-13 19:00:00,Google Pixel 8,Smartphone,Agus Wijaya,Jakarta,Mobile App,1,15000000,10,DLV-02
+TRX051,2024-03-13 13:30:00,AirPods Pro 2,Audio,Dewi Puspita,Surabaya,In-Store,1,4000000,0,DLV-02
+TRX052,2024-03-13 16:30:00,ASUS ROG Zephyrus G14,Laptop, Eko Prasetyo ,Yogyakarta,Website,1,29500000,15,DLV-02
+TRX053,2024-03-14 18:50:00,Anker PowerCore 10000,Aksesoris,Fitri Handayani,Bandung,Mobile App,1,500000,5,DLV-02
+TRX054,2024-03-14 21:15:00,LG UltraGear 27,Monitor,Gilang Ramadhan,Surabaya,Website,1,9500000,10,DLV-02
+TRX055,2024-03-14 15:00:00,Xiaomi 14,Smartphone,Hana Yuliana,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX056,2024-03-15 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Joko Susilo,Jakarta,Mobile App,1,35000000,15,SHP-01
+TRX057,2024-03-15 09:45:00,Bose QuietComfort Ultra,Audio,Indra Maulana,Medan,Website,1,6200000,5,CNL-04
+TRX058,2024-03-15 11:00:00,HP Spectre x360,Laptop,Kartika Sari,Semarang,Mobile App,1,26000000,10,DLV-02
+TRX059,2024-03-16 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Lina Marlina,Surabaya,In-Store,1,5000000,0,DLV-02
+TRX060,2024-03-16 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,15,SHP-01
+TRX061,2024-04-01 10:00:00,iPhone 15,Smartphone,Mega Wati,Jakarta,Website,1,21000000,10,DLV-02
+TRX062,2024-04-01 16:30:00,Samsung Galaxy S24,Smartphone,Nanda Putra,Bandung,Mobile App,1,18500000,10,DLV-02
+TRX063,2024-04-01 21:00:00,Sony WH-1000XM5,Audio,Putri Amelia,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX064,2024-04-02 10:30:00,Dell XPS 15,Laptop,Siti Lestari ,Bandung,Website,1,32000000,15,SHP-01
+TRX065,2024-04-02 13:15:00,Apple Watch Series 9,Aksesoris,Budi Santoso,Jakarta,Mobile App,1,7500000,5,DLV-02
+TRX066,2024-04-02 18:00:00,MacBook Air M2,Laptop,Agus Wijaya,Jakarta,Website,1,23000000,10,DLV-02
+TRX067,2024-04-03 22:30:00,JBL Charge 5,Audio,Dewi Puspita,Surabaya,In-Store,2,2500000,0,DLV-02
+TRX068,2024-04-03 15:00:00,Samsung Odyssey G9,Monitor, Eko Prasetyo ,Yogyakarta,Mobile App,1,28000000,15,SHP-01
+TRX069,2024-04-03 12:00:00,Logitech MX Master 3S,Aksesoris,Fitri Handayani,Bandung,Website,1,1800000,5,DLV-02
+TRX070,2024-04-04 19:30:00,Google Pixel 8,Smartphone,Gilang Ramadhan,Surabaya,Mobile App,1,15000000,10,DLV-02
+TRX071,2024-04-04 14:00:00,AirPods Pro 2,Audio,Hana Yuliana,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX072,2024-04-04 17:00:00,ASUS ROG Zephyrus G14,Laptop,Indra Maulana,Medan,Website,1,29500000,15,RTN-03
+TRX073,2024-04-05 19:20:00,Anker PowerCore 10000,Aksesoris,Joko Susilo,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX074,2024-04-05 21:45:00,LG UltraGear 27,Monitor,Kartika Sari,Semarang,Website,1,9500000,10,DLV-02
+TRX075,2024-04-05 15:30:00,Xiaomi 14,Smartphone,Lina Marlina,Surabaya,In-Store,1,12000000,0,DLV-02
+TRX076,2024-04-06 12:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Nanda Putra,Bandung,Mobile App,1,35000000,15,SHP-01
+TRX077,2024-04-06 10:15:00,Bose QuietComfort Ultra,Audio,Mega Wati,Jakarta,Website,1,6200000,5,DLV-02
+TRX078,2024-04-06 11:30:00,HP Spectre x360,Laptop,Putri Amelia,Jakarta,Mobile App,1,26000000,10,CNL-04
+TRX079,2024-04-07 18:00:00,Samsung Galaxy Watch 6,Aksesoris,Siti Lestari ,Bandung,In-Store,1,5000000,0,DLV-02
+TRX080,2024-04-07 20:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,15,SHP-01
+TRX081,2024-05-20 08:30:00,iPhone 15,Smartphone,Agus Wijaya,Jakarta,Website,1,21000000,5,DLV-02
+TRX082,2024-05-20 15:00:00,Samsung Galaxy S24,Smartphone,Dewi Puspita,Surabaya,Mobile App,1,18500000,5,DLV-02
+TRX083,2024-05-20 19:30:00,Sony WH-1000XM5,Audio, Eko Prasetyo ,Yogyakarta,In-Store,1,5500000,0,DLV-02
+TRX084,2024-05-21 10:00:00,Dell XPS 15,Laptop,Fitri Handayani,Bandung,Website,1,32000000,10,SHP-01
+TRX085,2024-05-21 12:30:00,Apple Watch Series 9,Aksesoris,Gilang Ramadhan,Surabaya,Mobile App,1,7500000,5,DLV-02
+TRX086,2024-05-21 17:00:00,MacBook Air M2,Laptop,Hana Yuliana,Jakarta,Website,1,23000000,10,DLV-02
+TRX087,2024-05-22 21:30:00,JBL Charge 5,Audio,Indra Maulana,Medan,In-Store,1,2500000,0,DLV-02
+TRX088,2024-05-22 14:00:00,Samsung Odyssey G9,Monitor,Joko Susilo,Jakarta,Mobile App,1,28000000,10,SHP-01
+TRX089,2024-05-22 11:00:00,Logitech MX Master 3S,Aksesoris,Kartika Sari,Semarang,Website,1,1800000,5,DLV-02
+TRX090,2024-05-23 18:30:00,Google Pixel 8,Smartphone,Lina Marlina,Surabaya,Mobile App,1,15000000,5,RTN-03
+TRX091,2024-05-23 13:00:00,AirPods Pro 2,Audio,Mega Wati,Jakarta,In-Store,2,4000000,0,DLV-02
+TRX092,2024-05-23 16:00:00,ASUS ROG Zephyrus G14,Laptop,Nanda Putra,Bandung,Website,1,29500000,10,DLV-02
+TRX093,2024-05-24 18:20:00,Anker PowerCore 10000,Aksesoris,Putri Amelia,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX094,2024-05-24 20:45:00,LG UltraGear 27,Monitor,Siti Lestari ,Bandung,Website,1,9500000,5,DLV-02
+TRX095,2024-05-24 14:30:00,Xiaomi 14,Smartphone,Budi Santoso,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX096,2024-05-25 11:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Agus Wijaya,Jakarta,Mobile App,1,35000000,10,SHP-01
+TRX097,2024-05-25 09:15:00,Bose QuietComfort Ultra,Audio,Dewi Puspita,Surabaya,Website,1,6200000,5,DLV-02
+TRX098,2024-05-25 10:30:00,HP Spectre x360,Laptop, Eko Prasetyo ,Yogyakarta,Mobile App,1,26000000,5,CNL-04
+TRX099,2024-05-26 17:00:00,Samsung Galaxy Watch 6,Aksesoris,Fitri Handayani,Bandung,In-Store,1,5000000,0,DLV-02
+TRX100,2024-05-26 19:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,10,SHP-01
+TRX101,2024-06-15 09:00:00,iPhone 15,Smartphone,Gilang Ramadhan,Surabaya,Website,1,21000000,15,DLV-02
+TRX102,2024-06-15 16:00:00,Samsung Galaxy S24,Smartphone,Hana Yuliana,Jakarta,Mobile App,1,18500000,15,DLV-02
+TRX103,2024-06-15 20:30:00,Sony WH-1000XM5,Audio,Indra Maulana,Medan,In-Store,1,5500000,0,DLV-02
+TRX104,2024-06-16 10:00:00,Dell XPS 15,Laptop,Joko Susilo,Jakarta,Website,1,32000000,20,SHP-01
+TRX105,2024-06-16 12:45:00,Apple Watch Series 9,Aksesoris,Kartika Sari,Semarang,Mobile App,1,7500000,10,DLV-02
+TRX106,2024-06-16 17:30:00,MacBook Air M2,Laptop,Lina Marlina,Surabaya,Website,1,23000000,15,DLV-02
+TRX107,2024-06-17 22:00:00,JBL Charge 5,Audio,Mega Wati,Jakarta,In-Store,1,2500000,0,DLV-02
+TRX108,2024-06-17 14:30:00,Samsung Odyssey G9,Monitor,Nanda Putra,Bandung,Mobile App,1,28000000,20,SHP-01
+TRX109,2024-06-17 11:30:00,Logitech MX Master 3S,Aksesoris,Putri Amelia,Jakarta,Website,1,1800000,10,DLV-02
+TRX110,2024-06-18 19:00:00,Google Pixel 8,Smartphone,Siti Lestari ,Bandung,Mobile App,1,15000000,15,DLV-02
+TRX111,2024-06-18 13:30:00,AirPods Pro 2,Audio,Budi Santoso,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX112,2024-06-18 16:30:00,ASUS ROG Zephyrus G14,Laptop,Agus Wijaya,Jakarta,Website,1,29500000,20,RTN-03
+TRX113,2024-06-19 18:50:00,Anker PowerCore 10000,Aksesoris,Dewi Puspita,Surabaya,Mobile App,2,500000,10,DLV-02
+TRX114,2024-06-19 21:15:00,LG UltraGear 27,Monitor, Eko Prasetyo ,Yogyakarta,Website,1,9500000,15,DLV-02
+TRX115,2024-06-19 15:00:00,Xiaomi 14,Smartphone,Fitri Handayani,Bandung,In-Store,1,12000000,0,DLV-02
+TRX116,2024-06-20 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Gilang Ramadhan,Surabaya,Mobile App,1,35000000,20,SHP-01
+TRX117,2024-06-20 09:45:00,Bose QuietComfort Ultra,Audio,Hana Yuliana,Jakarta,Website,1,6200000,10,DLV-02
+TRX118,2024-06-20 11:00:00,HP Spectre x360,Laptop,Indra Maulana,Medan,Mobile App,1,26000000,15,DLV-02
+TRX119,2024-06-21 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Joko Susilo,Jakarta,In-Store,1,5000000,0,CNL-04
+TRX120,2024-06-21 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,20,SHP-01
+TRX121,2024-07-05 09:00:00,iPhone 15,Smartphone,Kartika Sari,Semarang,Website,1,21000000,5,DLV-02
+TRX122,2024-07-05 16:00:00,Samsung Galaxy S24,Smartphone,Lina Marlina,Surabaya,Mobile App,1,18500000,5,DLV-02
+TRX123,2024-07-05 20:30:00,Sony WH-1000XM5,Audio,Mega Wati,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX124,2024-07-06 10:00:00,Dell XPS 15,Laptop,Nanda Putra,Bandung,Website,1,32000000,10,SHP-01
+TRX125,2024-07-06 12:45:00,Apple Watch Series 9,Aksesoris,Putri Amelia,Jakarta,Mobile App,1,7500000,5,DLV-02
+TRX126,2024-07-06 17:30:00,MacBook Air M2,Laptop,Siti Lestari ,Bandung,Website,1,23000000,10,DLV-02
+TRX127,2024-07-07 22:00:00,JBL Charge 5,Audio,Budi Santoso,Jakarta,In-Store,1,2500000,0,DLV-02
+TRX128,2024-07-07 14:30:00,Samsung Odyssey G9,Monitor,Agus Wijaya,Jakarta,Mobile App,1,28000000,10,SHP-01
+TRX129,2024-07-07 11:30:00,Logitech MX Master 3S,Aksesoris,Dewi Puspita,Surabaya,Website,1,1800000,5,DLV-02
+TRX130,2024-07-08 19:00:00,Google Pixel 8,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,15000000,5,DLV-02
+TRX131,2024-07-08 13:30:00,AirPods Pro 2,Audio,Fitri Handayani,Bandung,In-Store,1,4000000,0,RTN-03
+TRX132,2024-07-08 16:30:00,ASUS ROG Zephyrus G14,Laptop,Gilang Ramadhan,Surabaya,Website,1,29500000,10,DLV-02
+TRX133,2024-07-09 18:50:00,Anker PowerCore 10000,Aksesoris,Hana Yuliana,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX134,2024-07-09 21:15:00,LG UltraGear 27,Monitor,Indra Maulana,Medan,Website,1,9500000,5,DLV-02
+TRX135,2024-07-09 15:00:00,Xiaomi 14,Smartphone,Joko Susilo,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX136,2024-07-10 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Kartika Sari,Semarang,Mobile App,1,35000000,10,SHP-01
+TRX137,2024-07-10 09:45:00,Bose QuietComfort Ultra,Audio,Lina Marlina,Surabaya,Website,1,6200000,5,DLV-02
+TRX138,2024-07-10 11:00:00,HP Spectre x360,Laptop,Mega Wati,Jakarta,Mobile App,1,26000000,5,DLV-02
+TRX139,2024-07-11 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Nanda Putra,Bandung,In-Store,1,5000000,0,DLV-02
+TRX140,2024-07-11 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,10,SHP-01
+TRX141,2024-08-01 10:00:00,iPhone 15,Smartphone,Putri Amelia,Jakarta,Website,1,21000000,15,DLV-02
+TRX142,2024-08-01 16:30:00,Samsung Galaxy S24,Smartphone,Siti Lestari ,Bandung,Mobile App,1,18500000,15,DLV-02
+TRX143,2024-08-01 21:00:00,Sony WH-1000XM5,Audio,Budi Santoso,Jakarta,In-Store,1,5500000,0,CNL-04
+TRX144,2024-08-02 10:30:00,Dell XPS 15,Laptop,Agus Wijaya,Jakarta,Website,1,32000000,20,SHP-01
+TRX145,2024-08-02 13:15:00,Apple Watch Series 9,Aksesoris,Dewi Puspita,Surabaya,Mobile App,1,7500000,10,DLV-02
+TRX146,2024-08-02 18:00:00,MacBook Air M2,Laptop, Eko Prasetyo ,Yogyakarta,Website,1,23000000,15,DLV-02
+TRX147,2024-08-03 22:30:00,JBL Charge 5,Audio,Fitri Handayani,Bandung,In-Store,1,2500000,0,DLV-02
+TRX148,2024-08-03 15:00:00,Samsung Odyssey G9,Monitor,Gilang Ramadhan,Surabaya,Mobile App,1,28000000,20,SHP-01
+TRX149,2024-08-03 12:00:00,Logitech MX Master 3S,Aksesoris,Hana Yuliana,Jakarta,Website,1,1800000,10,DLV-02
+TRX150,2024-08-04 19:30:00,Google Pixel 8,Smartphone,Indra Maulana,Medan,Mobile App,1,15000000,15,DLV-02
+TRX151,2024-08-04 14:00:00,AirPods Pro 2,Audio,Joko Susilo,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX152,2024-08-04 17:00:00,ASUS ROG Zephyrus G14,Laptop,Kartika Sari,Semarang,Website,1,29500000,20,DLV-02
+TRX153,2024-08-05 19:20:00,Anker PowerCore 10000,Aksesoris,Lina Marlina,Surabaya,Mobile App,3,500000,10,DLV-02
+TRX154,2024-08-05 21:45:00,LG UltraGear 27,Monitor,Mega Wati,Jakarta,Website,1,9500000,15,DLV-02
+TRX155,2024-08-05 15:30:00,Xiaomi 14,Smartphone,Nanda Putra,Bandung,In-Store,1,12000000,0,DLV-02
+TRX156,2024-08-06 12:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Siti Lestari ,Bandung,Mobile App,1,35000000,20,SHP-01
+TRX157,2024-08-06 10:15:00,Bose QuietComfort Ultra,Audio,Putri Amelia,Jakarta,Website,1,6200000,10,RTN-03
+TRX158,2024-08-06 11:30:00,HP Spectre x360,Laptop,Budi Santoso,Jakarta,Mobile App,1,26000000,15,DLV-02
+TRX159,2024-08-07 18:00:00,Samsung Galaxy Watch 6,Aksesoris,Agus Wijaya,Jakarta,In-Store,1,5000000,0,DLV-02
+TRX160,2024-08-07 20:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,20,SHP-01
+TRX161,2024-09-11 08:30:00,iPhone 15,Smartphone,Dewi Puspita,Surabaya,Website,1,21000000,5,DLV-02
+TRX162,2024-09-11 15:00:00,Samsung Galaxy S24,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,18500000,5,DLV-02
+TRX163,2024-09-11 19:30:00,Sony WH-1000XM5,Audio,Fitri Handayani,Bandung,In-Store,1,5500000,0,DLV-02
+TRX164,2024-09-12 10:00:00,Dell XPS 15,Laptop,Gilang Ramadhan,Surabaya,Website,1,32000000,10,SHP-01
+TRX165,2024-09-12 12:30:00,Apple Watch Series 9,Aksesoris,Hana Yuliana,Jakarta,Mobile App,1,7500000,5,DLV-02
+TRX166,2024-09-12 17:00:00,MacBook Air M2,Laptop,Indra Maulana,Medan,Website,1,23000000,10,DLV-02
+TRX167,2024-09-13 21:30:00,JBL Charge 5,Audio,Joko Susilo,Jakarta,In-Store,1,2500000,0,DLV-02
+TRX168,2024-09-13 14:00:00,Samsung Odyssey G9,Monitor,Kartika Sari,Semarang,Mobile App,1,28000000,10,SHP-01
+TRX169,2024-09-13 11:00:00,Logitech MX Master 3S,Aksesoris,Lina Marlina,Surabaya,Website,1,1800000,5,DLV-02
+TRX170,2024-09-14 18:30:00,Google Pixel 8,Smartphone,Mega Wati,Jakarta,Mobile App,1,15000000,5,DLV-02
+TRX171,2024-09-14 13:00:00,AirPods Pro 2,Audio,Nanda Putra,Bandung,In-Store,1,4000000,0,DLV-02
+TRX172,2024-09-14 16:00:00,ASUS ROG Zephyrus G14,Laptop,Putri Amelia,Jakarta,Website,1,29500000,10,DLV-02
+TRX173,2024-09-15 18:20:00,Anker PowerCore 10000,Aksesoris,Siti Lestari ,Bandung,Mobile App,1,500000,5,CNL-04
+TRX174,2024-09-15 20:45:00,LG UltraGear 27,Monitor,Budi Santoso,Jakarta,Website,1,9500000,5,DLV-02
+TRX175,2024-09-15 14:30:00,Xiaomi 14,Smartphone,Agus Wijaya,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX176,2024-09-16 11:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Dewi Puspita,Surabaya,Mobile App,1,35000000,10,SHP-01
+TRX177,2024-09-16 09:15:00,Bose QuietComfort Ultra,Audio, Eko Prasetyo ,Yogyakarta,Website,1,6200000,5,DLV-02
+TRX178,2024-09-16 10:30:00,HP Spectre x360,Laptop,Fitri Handayani,Bandung,Mobile App,1,26000000,5,DLV-02
+TRX179,2024-09-17 17:00:00,Samsung Galaxy Watch 6,Aksesoris,Gilang Ramadhan,Surabaya,In-Store,1,5000000,0,RTN-03
+TRX180,2024-09-17 19:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,10,SHP-01
+TRX181,2024-10-25 09:00:00,iPhone 15,Smartphone,Hana Yuliana,Jakarta,Website,1,21000000,15,DLV-02
+TRX182,2024-10-25 16:00:00,Samsung Galaxy S24,Smartphone,Indra Maulana,Medan,Mobile App,1,18500000,15,DLV-02
+TRX183,2024-10-25 20:30:00,Sony WH-1000XM5,Audio,Joko Susilo,Jakarta,In-Store,2,5500000,0,DLV-02
+TRX184,2024-10-26 10:00:00,Dell XPS 15,Laptop,Kartika Sari,Semarang,Website,1,32000000,20,SHP-01
+TRX185,2024-10-26 12:45:00,Apple Watch Series 9,Aksesoris,Lina Marlina,Surabaya,Mobile App,1,7500000,10,DLV-02
+TRX186,2024-10-26 17:30:00,MacBook Air M2,Laptop,Mega Wati,Jakarta,Website,1,23000000,15,DLV-02
+TRX187,2024-10-27 22:00:00,JBL Charge 5,Audio,Nanda Putra,Bandung,In-Store,1,2500000,0,DLV-02
+TRX188,2024-10-27 14:30:00,Samsung Odyssey G9,Monitor,Putri Amelia,Jakarta,Mobile App,1,28000000,20,SHP-01
+TRX189,2024-10-27 11:30:00,Logitech MX Master 3S,Aksesoris,Siti Lestari ,Bandung,Website,1,1800000,10,DLV-02
+TRX190,2024-10-28 19:00:00,Google Pixel 8,Smartphone,Budi Santoso,Jakarta,Mobile App,1,15000000,15,DLV-02
+TRX191,2024-10-28 13:30:00,AirPods Pro 2,Audio,Agus Wijaya,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX192,2024-10-28 16:30:00,ASUS ROG Zephyrus G14,Laptop,Dewi Puspita,Surabaya,Website,1,29500000,20,DLV-02
+TRX193,2024-10-29 18:50:00,Anker PowerCore 10000,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,500000,10,DLV-02
+TRX194,2024-10-29 21:15:00,LG UltraGear 27,Monitor,Fitri Handayani,Bandung,Website,1,9500000,15,DLV-02
+TRX195,2024-10-29 15:00:00,Xiaomi 14,Smartphone,Gilang Ramadhan,Surabaya,In-Store,1,12000000,0,DLV-02
+TRX196,2024-10-30 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Hana Yuliana,Jakarta,Mobile App,1,35000000,20,SHP-01
+TRX197,2024-10-30 09:45:00,Bose QuietComfort Ultra,Audio,Indra Maulana,Medan,Website,1,6200000,10,DLV-02
+TRX198,2024-10-30 11:00:00,HP Spectre x360,Laptop,Joko Susilo,Jakarta,Mobile App,1,26000000,15,CNL-04
+TRX199,2024-10-31 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Kartika Sari,Semarang,In-Store,1,5000000,0,DLV-02
+TRX200,2024-10-31 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,20,SHP-01
+TRX201,2024-11-15 09:00:00,iPhone 15,Smartphone,Lina Marlina,Surabaya,Website,1,21000000,5,DLV-02
+TRX202,2024-11-15 16:00:00,Samsung Galaxy S24,Smartphone,Mega Wati,Jakarta,Mobile App,1,18500000,5,RTN-03
+TRX203,2024-11-15 20:30:00,Sony WH-1000XM5,Audio,Nanda Putra,Bandung,In-Store,1,5500000,0,DLV-02
+TRX204,2024-11-16 10:00:00,Dell XPS 15,Laptop,Putri Amelia,Jakarta,Website,1,32000000,10,SHP-01
+TRX205,2024-11-16 12:45:00,Apple Watch Series 9,Aksesoris,Siti Lestari ,Bandung,Mobile App,1,7500000,5,DLV-02
+TRX206,2024-11-16 17:30:00,MacBook Air M2,Laptop,Budi Santoso,Jakarta,Website,1,23000000,10,DLV-02
+TRX207,2024-11-17 22:00:00,JBL Charge 5,Audio,Agus Wijaya,Jakarta,In-Store,1,2500000,0,DLV-02
+TRX208,2024-11-17 14:30:00,Samsung Odyssey G9,Monitor,Dewi Puspita,Surabaya,Mobile App,1,28000000,10,SHP-01
+TRX209,2024-11-17 11:30:00,Logitech MX Master 3S,Aksesoris, Eko Prasetyo ,Yogyakarta,Website,1,1800000,5,DLV-02
+TRX210,2024-11-18 19:00:00,Google Pixel 8,Smartphone,Fitri Handayani,Bandung,Mobile App,1,15000000,5,DLV-02
+TRX211,2024-11-18 13:30:00,AirPods Pro 2,Audio,Gilang Ramadhan,Surabaya,In-Store,2,4000000,0,DLV-02
+TRX212,2024-11-18 16:30:00,ASUS ROG Zephyrus G14,Laptop,Hana Yuliana,Jakarta,Website,1,29500000,10,DLV-02
+TRX213,2024-11-19 18:50:00,Anker PowerCore 10000,Aksesoris,Indra Maulana,Medan,Mobile App,1,500000,5,DLV-02
+TRX214,2024-11-19 21:15:00,LG UltraGear 27,Monitor,Joko Susilo,Jakarta,Website,1,9500000,5,DLV-02
+TRX215,2024-11-19 15:00:00,Xiaomi 14,Smartphone,Kartika Sari,Semarang,In-Store,1,12000000,0,DLV-02
+TRX216,2024-11-20 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Lina Marlina,Surabaya,Mobile App,1,35000000,10,SHP-01
+TRX217,2024-11-20 09:45:00,Bose QuietComfort Ultra,Audio,Mega Wati,Jakarta,Website,1,6200000,5,DLV-02
+TRX218,2024-11-20 11:00:00,HP Spectre x360,Laptop,Nanda Putra,Bandung,Mobile App,1,26000000,5,CNL-04
+TRX219,2024-11-21 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Putri Amelia,Jakarta,In-Store,1,5000000,0,DLV-02
+TRX220,2024-11-21 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,10,SHP-01
+TRX221,2024-12-01 10:00:00,iPhone 15,Smartphone,Siti Lestari ,Bandung,Website,1,21000000,20,DLV-02
+TRX222,2024-12-01 16:30:00,Samsung Galaxy S24,Smartphone,Budi Santoso,Jakarta,Mobile App,1,18500000,20,DLV-02
+TRX223,2024-12-01 21:00:00,Sony WH-1000XM5,Audio,Agus Wijaya,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX224,2024-12-02 10:30:00,Dell XPS 15,Laptop,Dewi Puspita,Surabaya,Website,1,32000000,25,SHP-01
+TRX225,2024-12-02 13:15:00,Apple Watch Series 9,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,7500000,15,DLV-02
+TRX226,2024-12-02 18:00:00,MacBook Air M2,Laptop,Fitri Handayani,Bandung,Website,1,23000000,20,DLV-02
+TRX227,2024-12-03 22:30:00,JBL Charge 5,Audio,Gilang Ramadhan,Surabaya,In-Store,1,2500000,0,DLV-02
+TRX228,2024-12-03 15:00:00,Samsung Odyssey G9,Monitor,Hana Yuliana,Jakarta,Mobile App,1,28000000,25,SHP-01
+TRX229,2024-12-03 12:00:00,Logitech MX Master 3S,Aksesoris,Indra Maulana,Medan,Website,1,1800000,15,DLV-02
+TRX230,2024-12-04 19:30:00,Google Pixel 8,Smartphone,Joko Susilo,Jakarta,Mobile App,1,15000000,20,RTN-03
+TRX231,2024-12-04 14:00:00,AirPods Pro 2,Audio,Kartika Sari,Semarang,In-Store,1,4000000,0,DLV-02
+TRX232,2024-12-04 17:00:00,ASUS ROG Zephyrus G14,Laptop,Lina Marlina,Surabaya,Website,1,29500000,25,DLV-02
+TRX233,2024-12-05 19:20:00,Anker PowerCore 10000,Aksesoris,Mega Wati,Jakarta,Mobile App,1,500000,15,DLV-02
+TRX234,2024-12-05 21:45:00,LG UltraGear 27,Monitor,Nanda Putra,Bandung,Website,1,9500000,20,DLV-02
+TRX235,2024-12-05 15:30:00,Xiaomi 14,Smartphone,Putri Amelia,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX236,2024-12-06 12:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Siti Lestari ,Bandung,Mobile App,1,35000000,25,SHP-01
+TRX237,2024-12-06 10:15:00,Bose QuietComfort Ultra,Audio,Budi Santoso,Jakarta,Website,1,6200000,15,DLV-02
+TRX238,2024-12-06 11:30:00,HP Spectre x360,Laptop,Agus Wijaya,Jakarta,Mobile App,1,26000000,20,DLV-02
+TRX239,2024-12-07 18:00:00,Samsung Galaxy Watch 6,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,5000000,0,DLV-02
+TRX240,2024-12-07 20:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,25,SHP-01
+TRX241,2024-01-10 09:30:00,Sony WH-1000XM5,Audio,Siti Lestari ,Bandung,Mobile App,1,5500000,5,DLV-02
+TRX242,2024-01-11 11:00:00,Dell XPS 15,Laptop,Indra Maulana,Medan,Website,1,32000000,15,SHP-01
+TRX243,2024-01-12 14:00:00,Apple Watch Series 9,Aksesoris,Joko Susilo,Jakarta,In-Store,1,7500000,0,DLV-02
+TRX244,2024-01-13 16:45:00,MacBook Air M2,Laptop,Kartika Sari,Semarang,Mobile App,1,23000000,10,DLV-02
+TRX245,2024-01-14 18:20:00,JBL Charge 5,Audio,Lina Marlina,Surabaya,Website,1,2500000,5,DLV-02
+TRX246,2024-02-15 10:15:00,Samsung Odyssey G9,Monitor,Mega Wati,Jakarta,In-Store,1,28000000,0,DLV-02
+TRX247,2024-02-16 13:00:00,Logitech MX Master 3S,Aksesoris,Nanda Putra,Bandung,Mobile App,2,1800000,5,CNL-04
+TRX248,2024-02-17 15:45:00,Google Pixel 8,Smartphone,Putri Amelia,Jakarta,Website,1,15000000,10,DLV-02
+TRX249,2024-02-18 17:30:00,AirPods Pro 2,Audio,Siti Lestari ,Bandung,In-Store,1,4000000,0,DLV-02
+TRX250,2024-02-19 19:00:00,ASUS ROG Zephyrus G14,Laptop,Budi Santoso,Jakarta,Mobile App,1,29500000,15,RTN-03
+TRX251,2024-03-20 08:50:00,Anker PowerCore 10000,Aksesoris,Agus Wijaya,Jakarta,Website,1,500000,5,DLV-02
+TRX252,2024-03-21 11:20:00,LG UltraGear 27,Monitor,Dewi Puspita,Surabaya,In-Store,1,9500000,0,DLV-02
+TRX253,2024-03-22 14:10:00,Xiaomi 14,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,12000000,5,DLV-02
+TRX254,2024-03-23 16:55:00,Lenovo ThinkPad X1 Carbon,Laptop,Fitri Handayani,Bandung,Website,1,35000000,15,SHP-01
+TRX255,2024-03-24 18:40:00,Bose QuietComfort Ultra,Audio,Gilang Ramadhan,Surabaya,In-Store,1,6200000,0,DLV-02
+TRX256,2024-04-25 09:00:00,HP Spectre x360,Laptop,Hana Yuliana,Jakarta,Mobile App,1,26000000,10,DLV-02
+TRX257,2024-04-26 11:30:00,Samsung Galaxy Watch 6,Aksesoris,Indra Maulana,Medan,Website,1,5000000,5,DLV-02
+TRX258,2024-04-27 14:20:00,Razer Blade 15,Laptop,Joko Susilo,Jakarta,In-Store,1,42000000,0,SHP-01
+TRX259,2024-04-28 17:00:00,iPhone 15,Smartphone,Kartika Sari,Semarang,Mobile App,1,21000000,10,DLV-02
+TRX260,2024-04-29 19:45:00,Samsung Galaxy S24,Smartphone,Lina Marlina,Surabaya,Website,1,18500000,10,DLV-02
+TRX261,2024-05-30 08:20:00,Sony WH-1000XM5,Audio,Mega Wati,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX262,2024-05-31 10:50:00,Dell XPS 15,Laptop,Nanda Putra,Bandung,Mobile App,1,32000000,15,SHP-01
+TRX263,2024-06-01 13:40:00,Apple Watch Series 9,Aksesoris,Putri Amelia,Jakarta,Website,1,7500000,5,DLV-02
+TRX264,2024-06-02 16:25:00,MacBook Air M2,Laptop,Siti Lestari ,Bandung,In-Store,1,23000000,0,DLV-02
+TRX265,2024-06-03 18:10:00,JBL Charge 5,Audio,Budi Santoso,Jakarta,Mobile App,2,2500000,5,DLV-02
+TRX266,2024-07-04 09:45:00,Samsung Odyssey G9,Monitor,Agus Wijaya,Jakarta,Website,1,28000000,15,SHP-01
+TRX267,2024-07-05 12:15:00,Logitech MX Master 3S,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,1800000,0,DLV-02
+TRX268,2024-07-06 15:00:00,Google Pixel 8,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,15000000,10,DLV-02
+TRX269,2024-07-07 17:45:00,AirPods Pro 2,Audio,Fitri Handayani,Bandung,Website,1,4000000,5,RTN-03
+TRX270,2024-07-08 19:30:00,ASUS ROG Zephyrus G14,Laptop,Gilang Ramadhan,Surabaya,In-Store,1,29500000,0,CNL-04
+TRX271,2024-08-09 08:00:00,Anker PowerCore 10000,Aksesoris,Hana Yuliana,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX272,2024-08-10 10:30:00,LG UltraGear 27,Monitor,Indra Maulana,Medan,Website,1,9500000,10,DLV-02
+TRX273,2024-08-11 13:20:00,Xiaomi 14,Smartphone,Joko Susilo,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX274,2024-08-12 16:00:00,Lenovo ThinkPad X1 Carbon,Laptop,Kartika Sari,Semarang,Mobile App,1,35000000,15,SHP-01
+TRX275,2024-08-13 18:45:00,Bose QuietComfort Ultra,Audio,Lina Marlina,Surabaya,Website,1,6200000,5,DLV-02
+TRX276,2024-09-14 09:10:00,HP Spectre x360,Laptop,Mega Wati,Jakarta,In-Store,1,26000000,0,DLV-02
+TRX277,2024-09-15 11:40:00,Samsung Galaxy Watch 6,Aksesoris,Nanda Putra,Bandung,Mobile App,1,5000000,5,DLV-02
+TRX278,2024-09-16 14:30:00,Razer Blade 15,Laptop,Putri Amelia,Jakarta,Website,1,42000000,15,SHP-01
+TRX279,2024-09-17 17:15:00,iPhone 15,Smartphone,Siti Lestari ,Bandung,In-Store,1,21000000,0,DLV-02
+TRX280,2024-09-18 19:00:00,Samsung Galaxy S24,Smartphone,Budi Santoso,Jakarta,Mobile App,1,18500000,10,DLV-02
+TRX281,2024-10-19 08:40:00,Sony WH-1000XM5,Audio,Agus Wijaya,Jakarta,Website,1,5500000,5,DLV-02
+TRX282,2024-10-20 11:10:00,Dell XPS 15,Laptop,Dewi Puspita,Surabaya,In-Store,1,32000000,0,SHP-01
+TRX283,2024-10-21 13:55:00,Apple Watch Series 9,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,7500000,5,DLV-02
+TRX284,2024-10-22 16:40:00,MacBook Air M2,Laptop,Fitri Handayani,Bandung,Website,1,23000000,10,DLV-02
+TRX285,2024-10-23 18:25:00,JBL Charge 5,Audio,Gilang Ramadhan,Surabaya,In-Store,1,2500000,0,DLV-02
+TRX286,2024-11-24 09:00:00,Samsung Odyssey G9,Monitor,Hana Yuliana,Jakarta,Mobile App,1,28000000,15,SHP-01
+TRX287,2024-11-25 11:25:00,Logitech MX Master 3S,Aksesoris,Indra Maulana,Medan,Website,1,1800000,5,DLV-02
+TRX288,2024-11-26 14:15:00,Google Pixel 8,Smartphone,Joko Susilo,Jakarta,In-Store,1,15000000,0,DLV-02
+TRX289,2024-11-27 16:50:00,AirPods Pro 2,Audio,Kartika Sari,Semarang,Mobile App,1,4000000,5,RTN-03
+TRX290,2024-11-28 18:35:00,ASUS ROG Zephyrus G14,Laptop,Lina Marlina,Surabaya,Website,1,29500000,15,CNL-04
+TRX291,2024-12-29 08:15:00,Anker PowerCore 10000,Aksesoris,Mega Wati,Jakarta,In-Store,3,500000,0,DLV-02
+TRX292,2024-12-30 10:45:00,LG UltraGear 27,Monitor,Nanda Putra,Bandung,Mobile App,1,9500000,10,DLV-02
+TRX293,2024-12-31 13:30:00,Xiaomi 14,Smartphone,Putri Amelia,Jakarta,Website,1,12000000,5,DLV-02
+TRX294,2024-01-15 16:15:00,Lenovo ThinkPad X1 Carbon,Laptop,Siti Lestari ,Bandung,In-Store,1,35000000,0,SHP-01
+TRX295,2024-01-16 18:00:00,Bose QuietComfort Ultra,Audio,Budi Santoso,Jakarta,Mobile App,1,6200000,5,DLV-02
+TRX296,2024-02-17 09:25:00,HP Spectre x360,Laptop,Agus Wijaya,Jakarta,Website,1,26000000,10,DLV-02
+TRX297,2024-02-18 12:00:00,Samsung Galaxy Watch 6,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,5000000,0,DLV-02
+TRX298,2024-02-19 14:45:00,Razer Blade 15,Laptop, Eko Prasetyo ,Yogyakarta,Mobile App,1,42000000,15,SHP-01
+TRX299,2024-02-20 17:30:00,iPhone 15,Smartphone,Fitri Handayani,Bandung,Website,1,21000000,10,DLV-02
+TRX300,2024-02-21 19:15:00,Samsung Galaxy S24,Smartphone,Gilang Ramadhan,Surabaya,In-Store,1,18500000,0,DLV-02
+TRX301,2024-03-22 08:00:00,Sony WH-1000XM5,Audio,Hana Yuliana,Jakarta,Mobile App,1,5500000,5,DLV-02
+TRX302,2024-03-23 10:25:00,Dell XPS 15,Laptop,Indra Maulana,Medan,Website,1,32000000,15,SHP-01
+TRX303,2024-03-24 13:10:00,Apple Watch Series 9,Aksesoris,Joko Susilo,Jakarta,In-Store,1,7500000,0,DLV-02
+TRX304,2024-03-25 15:55:00,MacBook Air M2,Laptop,Kartika Sari,Semarang,Mobile App,1,23000000,10,DLV-02
+TRX305,2024-03-26 17:40:00,JBL Charge 5,Audio,Lina Marlina,Surabaya,Website,1,2500000,5,DLV-02
+TRX306,2024-04-27 09:15:00,Samsung Odyssey G9,Monitor,Mega Wati,Jakarta,In-Store,1,28000000,0,SHP-01
+TRX307,2024-04-28 11:50:00,Logitech MX Master 3S,Aksesoris,Nanda Putra,Bandung,Mobile App,1,1800000,5,DLV-02
+TRX308,2024-04-29 14:35:00,Google Pixel 8,Smartphone,Putri Amelia,Jakarta,Website,1,15000000,10,RTN-03
+TRX309,2024-04-30 17:20:00,AirPods Pro 2,Audio,Siti Lestari ,Bandung,In-Store,1,4000000,0,DLV-02
+TRX310,2024-05-01 19:05:00,ASUS ROG Zephyrus G14,Laptop,Budi Santoso,Jakarta,Mobile App,1,29500000,15,DLV-02
+TRX311,2024-06-02 08:35:00,Anker PowerCore 10000,Aksesoris,Agus Wijaya,Jakarta,Website,1,500000,5,DLV-02
+TRX312,2024-06-03 11:05:00,LG UltraGear 27,Monitor,Dewi Puspita,Surabaya,In-Store,1,9500000,0,DLV-02
+TRX313,2024-06-04 13:50:00,Xiaomi 14,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,12000000,5,DLV-02
+TRX314,2024-06-05 16:35:00,Lenovo ThinkPad X1 Carbon,Laptop,Fitri Handayani,Bandung,Website,1,35000000,15,SHP-01
+TRX315,2024-06-06 18:20:00,Bose QuietComfort Ultra,Audio,Gilang Ramadhan,Surabaya,In-Store,1,6200000,0,DLV-02
+TRX316,2024-07-07 09:50:00,HP Spectre x360,Laptop,Hana Yuliana,Jakarta,Mobile App,1,26000000,10,CNL-04
+TRX317,2024-07-08 12:20:00,Samsung Galaxy Watch 6,Aksesoris,Indra Maulana,Medan,Website,1,5000000,5,DLV-02
+TRX318,2024-07-09 15:10:00,Razer Blade 15,Laptop,Joko Susilo,Jakarta,In-Store,1,42000000,0,SHP-01
+TRX319,2024-07-10 17:55:00,iPhone 15,Smartphone,Kartika Sari,Semarang,Mobile App,1,21000000,10,DLV-02
+TRX320,2024-07-11 19:40:00,Samsung Galaxy S24,Smartphone,Lina Marlina,Surabaya,Website,1,18500000,10,DLV-02
+TRX321,2024-08-12 08:10:00,Sony WH-1000XM5,Audio,Mega Wati,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX322,2024-08-13 10:40:00,Dell XPS 15,Laptop,Nanda Putra,Bandung,Mobile App,1,32000000,15,SHP-01
+TRX323,2024-08-14 13:25:00,Apple Watch Series 9,Aksesoris,Putri Amelia,Jakarta,Website,1,7500000,5,DLV-02
+TRX324,2024-08-15 16:10:00,MacBook Air M2,Laptop,Siti Lestari ,Bandung,In-Store,1,23000000,0,DLV-02
+TRX325,2024-08-16 18:00:00,JBL Charge 5,Audio,Budi Santoso,Jakarta,Mobile App,1,2500000,5,DLV-02
+TRX326,2024-09-17 09:35:00,Samsung Odyssey G9,Monitor,Agus Wijaya,Jakarta,Website,1,28000000,15,SHP-01
+TRX327,2024-09-18 12:05:00,Logitech MX Master 3S,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,1800000,0,DLV-02
+TRX328,2024-09-19 14:50:00,Google Pixel 8,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,15000000,10,DLV-02
+TRX329,2024-09-20 17:35:00,AirPods Pro 2,Audio,Fitri Handayani,Bandung,Website,1,4000000,5,DLV-02
+TRX330,2024-09-21 19:20:00,ASUS ROG Zephyrus G14,Laptop,Gilang Ramadhan,Surabaya,In-Store,1,29500000,0,DLV-02
+TRX331,2024-10-22 08:55:00,Anker PowerCore 10000,Aksesoris,Hana Yuliana,Jakarta,Mobile App,1,500000,5,RTN-03
+TRX332,2024-10-23 11:25:00,LG UltraGear 27,Monitor,Indra Maulana,Medan,Website,1,9500000,10,DLV-02
+TRX333,2024-10-24 14:15:00,Xiaomi 14,Smartphone,Joko Susilo,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX334,2024-10-25 16:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Kartika Sari,Semarang,Mobile App,1,35000000,15,SHP-01
+TRX335,2024-10-26 18:35:00,Bose QuietComfort Ultra,Audio,Lina Marlina,Surabaya,Website,1,6200000,5,DLV-02
+TRX336,2024-11-27 09:05:00,HP Spectre x360,Laptop,Mega Wati,Jakarta,In-Store,1,26000000,0,DLV-02
+TRX337,2024-11-28 11:35:00,Samsung Galaxy Watch 6,Aksesoris,Nanda Putra,Bandung,Mobile App,1,5000000,5,DLV-02
+TRX338,2024-11-29 14:25:00,Razer Blade 15,Laptop,Putri Amelia,Jakarta,Website,1,42000000,15,SHP-01
+TRX339,2024-11-30 17:10:00,iPhone 15,Smartphone,Siti Lestari ,Bandung,In-Store,1,21000000,0,DLV-02
+TRX340,2024-12-01 19:00:00,Samsung Galaxy S24,Smartphone,Budi Santoso,Jakarta,Mobile App,1,18500000,10,DLV-02
+TRX341,2024-01-20 08:20:00,Sony WH-1000XM5,Audio,Agus Wijaya,Jakarta,Website,1,5500000,5,DLV-02
+TRX342,2024-01-21 10:55:00,Dell XPS 15,Laptop,Dewi Puspita,Surabaya,In-Store,1,32000000,0,SHP-01
+TRX343,2024-01-22 13:45:00,Apple Watch Series 9,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,7500000,5,DLV-02
+TRX344,2024-01-23 16:30:00,MacBook Air M2,Laptop,Fitri Handayani,Bandung,Website,1,23000000,10,CNL-04
+TRX345,2024-01-24 18:15:00,JBL Charge 5,Audio,Gilang Ramadhan,Surabaya,In-Store,1,2500000,0,DLV-02
+TRX346,2024-02-25 09:40:00,Samsung Odyssey G9,Monitor,Hana Yuliana,Jakarta,Mobile App,1,28000000,15,SHP-01
+TRX347,2024-02-26 12:10:00,Logitech MX Master 3S,Aksesoris,Indra Maulana,Medan,Website,1,1800000,5,DLV-02
+TRX348,2024-02-27 15:00:00,Google Pixel 8,Smartphone,Joko Susilo,Jakarta,In-Store,1,15000000,0,DLV-02
+TRX349,2024-02-28 17:45:00,AirPods Pro 2,Audio,Kartika Sari,Semarang,Mobile App,1,4000000,5,DLV-02
+TRX350,2024-02-29 19:30:00,ASUS ROG Zephyrus G14,Laptop,Lina Marlina,Surabaya,Website,1,29500000,15,DLV-02
+TRX351,2024-03-01 08:05:00,Anker PowerCore 10000,Aksesoris,Mega Wati,Jakarta,In-Store,1,500000,0,RTN-03
+TRX352,2024-03-02 10:35:00,LG UltraGear 27,Monitor,Nanda Putra,Bandung,Mobile App,1,9500000,10,DLV-02
+TRX353,2024-03-03 13:20:00,Xiaomi 14,Smartphone,Putri Amelia,Jakarta,Website,1,12000000,5,DLV-02
+TRX354,2024-03-04 16:05:00,Lenovo ThinkPad X1 Carbon,Laptop,Siti Lestari ,Bandung,In-Store,1,35000000,0,SHP-01
+TRX355,2024-03-05 17:50:00,Bose QuietComfort Ultra,Audio,Budi Santoso,Jakarta,Mobile App,1,6200000,5,DLV-02
+TRX356,2024-04-06 09:20:00,HP Spectre x360,Laptop,Agus Wijaya,Jakarta,Website,1,26000000,10,DLV-02
+TRX357,2024-04-07 11:55:00,Samsung Galaxy Watch 6,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,5000000,0,DLV-02
+TRX358,2024-04-08 14:40:00,Razer Blade 15,Laptop, Eko Prasetyo ,Yogyakarta,Mobile App,1,42000000,15,SHP-01
+TRX359,2024-04-09 17:25:00,iPhone 15,Smartphone,Fitri Handayani,Bandung,Website,1,21000000,10,DLV-02
+TRX360,2024-04-10 19:10:00,Samsung Galaxy S24,Smartphone,Gilang Ramadhan,Surabaya,In-Store,1,18500000,0,DLV-02
+TRX361,2024-05-11 08:45:00,Sony WH-1000XM5,Audio,Hana Yuliana,Jakarta,Mobile App,1,5500000,5,DLV-02
+TRX362,2024-05-12 11:15:00,Dell XPS 15,Laptop,Indra Maulana,Medan,Website,1,32000000,15,SHP-01
+TRX363,2024-05-13 14:00:00,Apple Watch Series 9,Aksesoris,Joko Susilo,Jakarta,In-Store,1,7500000,0,DLV-02
+TRX364,2024-05-14 16:45:00,MacBook Air M2,Laptop,Kartika Sari,Semarang,Mobile App,1,23000000,10,DLV-02
+TRX365,2024-05-15 18:30:00,JBL Charge 5,Audio,Lina Marlina,Surabaya,Website,1,2500000,5,DLV-02
+TRX366,2024-06-16 09:05:00,Samsung Odyssey G9,Monitor,Mega Wati,Jakarta,In-Store,1,28000000,0,SHP-01
+TRX367,2024-06-17 11:40:00,Logitech MX Master 3S,Aksesoris,Nanda Putra,Bandung,Mobile App,1,1800000,5,DLV-02
+TRX368,2024-06-18 14:25:00,Google Pixel 8,Smartphone,Putri Amelia,Jakarta,Website,1,15000000,10,DLV-02
+TRX369,2024-06-19 17:10:00,AirPods Pro 2,Audio,Siti Lestari ,Bandung,In-Store,1,4000000,0,DLV-02
+TRX370,2024-06-20 18:55:00,ASUS ROG Zephyrus G14,Laptop,Budi Santoso,Jakarta,Mobile App,1,29500000,15,DLV-02
+TRX371,2024-07-21 08:25:00,Anker PowerCore 10000,Aksesoris,Agus Wijaya,Jakarta,Website,1,500000,5,DLV-02
+TRX372,2024-07-22 10:55:00,LG UltraGear 27,Monitor,Dewi Puspita,Surabaya,In-Store,1,9500000,0,CNL-04
+TRX373,2024-07-23 13:40:00,Xiaomi 14,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,12000000,5,DLV-02
+TRX374,2024-07-24 16:25:00,Lenovo ThinkPad X1 Carbon,Laptop,Fitri Handayani,Bandung,Website,1,35000000,15,SHP-01
+TRX375,2024-07-25 18:10:00,Bose QuietComfort Ultra,Audio,Gilang Ramadhan,Surabaya,In-Store,1,6200000,0,DLV-02
+TRX376,2024-08-26 09:45:00,HP Spectre x360,Laptop,Hana Yuliana,Jakarta,Mobile App,1,26000000,10,DLV-02
+TRX377,2024-08-27 12:15:00,Samsung Galaxy Watch 6,Aksesoris,Indra Maulana,Medan,Website,1,5000000,5,RTN-03
+TRX378,2024-08-28 15:05:00,Razer Blade 15,Laptop,Joko Susilo,Jakarta,In-Store,1,42000000,0,SHP-01
+TRX379,2024-08-29 17:50:00,iPhone 15,Smartphone,Kartika Sari,Semarang,Mobile App,1,21000000,10,DLV-02
+TRX380,2024-08-30 19:35:00,Samsung Galaxy S24,Smartphone,Lina Marlina,Surabaya,Website,1,18500000,10,DLV-02
+TRX381,2024-09-01 08:15:00,Sony WH-1000XM5,Audio,Mega Wati,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX382,2024-09-02 10:45:00,Dell XPS 15,Laptop,Nanda Putra,Bandung,Mobile App,1,32000000,15,SHP-01
+TRX383,2024-09-03 13:30:00,Apple Watch Series 9,Aksesoris,Putri Amelia,Jakarta,Website,1,7500000,5,DLV-02
+TRX384,2024-09-04 16:15:00,MacBook Air M2,Laptop,Siti Lestari ,Bandung,In-Store,1,23000000,0,DLV-02
+TRX385,2024-09-05 18:05:00,JBL Charge 5,Audio,Budi Santoso,Jakarta,Mobile App,1,2500000,5,DLV-02
+TRX386,2024-10-06 09:30:00,Samsung Odyssey G9,Monitor,Agus Wijaya,Jakarta,Website,1,28000000,15,SHP-01
+TRX387,2024-10-07 12:00:00,Logitech MX Master 3S,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,1800000,0,DLV-02
+TRX388,2024-10-08 14:45:00,Google Pixel 8,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,15000000,10,DLV-02
+TRX389,2024-10-09 17:30:00,AirPods Pro 2,Audio,Fitri Handayani,Bandung,Website,1,4000000,5,DLV-02
+TRX390,2024-10-10 19:15:00,ASUS ROG Zephyrus G14,Laptop,Gilang Ramadhan,Surabaya,In-Store,1,29500000,0,DLV-02
+TRX391,2024-11-11 08:50:00,Anker PowerCore 10000,Aksesoris,Hana Yuliana,Jakarta,Mobile App,2,500000,5,DLV-02
+TRX392,2024-11-12 11:20:00,LG UltraGear 27,Monitor,Indra Maulana,Medan,Website,1,9500000,10,DLV-02
+TRX393,2024-11-13 14:05:00,Xiaomi 14,Smartphone,Joko Susilo,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX394,2024-11-14 16:40:00,Lenovo ThinkPad X1 Carbon,Laptop,Kartika Sari,Semarang,Mobile App,1,35000000,15,SHP-01
+TRX395,2024-11-15 18:25:00,Bose QuietComfort Ultra,Audio,Lina Marlina,Surabaya,Website,1,6200000,5,DLV-02
+TRX396,2024-12-16 09:55:00,HP Spectre x360,Laptop,Mega Wati,Jakarta,In-Store,1,26000000,0,DLV-02
+TRX397,2024-12-17 12:25:00,Samsung Galaxy Watch 6,Aksesoris,Nanda Putra,Bandung,Mobile App,1,5000000,5,RTN-03
+TRX398,2024-12-18 15:15:00,Razer Blade 15,Laptop,Putri Amelia,Jakarta,Website,1,42000000,15,SHP-01
+TRX399,2024-12-19 17:00:00,iPhone 15,Smartphone,Siti Lestari ,Bandung,In-Store,1,21000000,0,DLV-02
+TRX400,2024-12-20 18:45:00,Samsung Galaxy S24,Smartphone,Budi Santoso,Jakarta,Mobile App,1,18500000,10,DLV-02
+TRX401,2024-01-25 08:30:15,iPhone 15,Smartphone, Budi Santoso,Jakarta,Website,1,21000000,10,DLV-02
+TRX402,2024-01-25 14:22:30,Samsung Galaxy S24,Smartphone,Siti Lestari ,Bandung,Mobile App,1,18500000,10,DLV-02
+TRX403,2024-01-25 19:45:10,Sony WH-1000XM5,Audio,Agus Wijaya,Jakarta,In-Store,2,5500000,0,DLV-02
+TRX404,2024-01-26 09:10:05,Dell XPS 15,Laptop,Dewi Puspita,Surabaya,Website,1,32000000,15,SHP-01
+TRX405,2024-01-26 11:55:45,Apple Watch Series 9,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,7500000,5,DLV-02
+TRX406,2024-01-26 16:20:00,MacBook Air M2,Laptop,Budi Santoso,Jakarta,Website,1,23000000,10,DLV-02
+TRX407,2024-01-27 21:05:30,JBL Charge 5,Audio,Fitri Handayani,Bandung,In-Store,1,2500000,0,DLV-02
+TRX408,2024-01-27 13:15:20,Samsung Odyssey G9,Monitor,Gilang Ramadhan,Surabaya,Mobile App,1,28000000,15,SHP-01
+TRX409,2024-01-27 10:40:10,Logitech MX Master 3S,Aksesoris,Hana Yuliana,Jakarta,Website,1,1800000,5,RTN-03
+TRX410,2024-01-28 18:00:55,Google Pixel 8,Smartphone,Indra Maulana,Medan,Mobile App,1,15000000,10,DLV-02
+TRX411,2024-01-28 12:30:00,AirPods Pro 2,Audio,Joko Susilo,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX412,2024-01-28 15:10:40,ASUS ROG Zephyrus G14,Laptop,Agus Wijaya,Jakarta,Website,1,29500000,15,CNL-04
+TRX413,2024-01-29 17:50:25,Anker PowerCore 10000,Aksesoris,Siti Lestari ,Bandung,Mobile App,3,500000,5,DLV-02
+TRX414,2024-01-29 20:25:15,LG UltraGear 27,Monitor,Budi Santoso,Jakarta,Website,1,9500000,10,DLV-02
+TRX415,2024-01-29 14:05:05,Xiaomi 14,Smartphone,Kartika Sari,Semarang,In-Store,1,12000000,0,DLV-02
+TRX416,2024-01-30 11:35:50,Lenovo ThinkPad X1 Carbon,Laptop,Lina Marlina,Surabaya,Mobile App,1,35000000,15,SHP-01
+TRX417,2024-01-30 09:00:30,Bose QuietComfort Ultra,Audio,Mega Wati,Jakarta,Website,1,6200000,5,DLV-02
+TRX418,2024-01-30 10:10:20,HP Spectre x360,Laptop,Nanda Putra,Bandung,Mobile App,1,26000000,10,DLV-02
+TRX419,2024-01-31 16:45:10,Samsung Galaxy Watch 6,Aksesoris,Putri Amelia,Jakarta,In-Store,1,5000000,0,DLV-02
+TRX420,2024-01-31 19:20:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,15,SHP-01
+TRX421,2024-02-17 08:45:10,iPhone 15,Smartphone, Eko Prasetyo ,Yogyakarta,Website,1,21000000,10,DLV-02
+TRX422,2024-02-18 15:30:20,Samsung Galaxy S24,Smartphone,Fitri Handayani,Bandung,Mobile App,1,18500000,10,DLV-02
+TRX423,2024-02-19 20:00:00,Sony WH-1000XM5,Audio,Gilang Ramadhan,Surabaya,In-Store,1,5500000,0,DLV-02
+TRX424,2024-02-20 09:30:00,Dell XPS 15,Laptop,Hana Yuliana,Jakarta,Website,1,32000000,15,SHP-01
+TRX425,2024-02-21 12:10:30,Apple Watch Series 9,Aksesoris,Indra Maulana,Medan,Mobile App,2,7500000,5,DLV-02
+TRX426,2024-02-22 17:00:15,MacBook Air M2,Laptop,Joko Susilo,Jakarta,Website,1,23000000,10,DLV-02
+TRX427,2024-02-23 21:30:50,JBL Charge 5,Audio,Kartika Sari,Semarang,In-Store,1,2500000,0,DLV-02
+TRX428,2024-02-24 14:00:45,Samsung Odyssey G9,Monitor,Lina Marlina,Surabaya,Mobile App,1,28000000,15,SHP-01
+TRX429,2024-02-25 11:00:00,Logitech MX Master 3S,Aksesoris,Mega Wati,Jakarta,Website,1,1800000,5,DLV-02
+TRX430,2024-02-26 18:30:30,Google Pixel 8,Smartphone,Nanda Putra,Bandung,Mobile App,1,15000000,10,RTN-03
+TRX431,2024-02-27 13:00:10,AirPods Pro 2,Audio,Putri Amelia,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX432,2024-02-28 16:00:00,ASUS ROG Zephyrus G14,Laptop,Siti Lestari ,Bandung,Website,1,29500000,15,DLV-02
+TRX433,2024-03-01 18:20:20,Anker PowerCore 10000,Aksesoris,Budi Santoso,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX434,2024-03-02 20:45:00,LG UltraGear 27,Monitor,Agus Wijaya,Jakarta,Website,1,9500000,10,CNL-04
+TRX435,2024-03-03 14:30:40,Xiaomi 14,Smartphone,Dewi Puspita,Surabaya,In-Store,1,12000000,0,DLV-02
+TRX436,2024-03-04 11:50:10,Lenovo ThinkPad X1 Carbon,Laptop,Hana Yuliana,Jakarta,Mobile App,1,35000000,15,SHP-01
+TRX437,2024-03-05 09:15:00,Bose QuietComfort Ultra,Audio, Eko Prasetyo ,Yogyakarta,Website,1,6200000,5,DLV-02
+TRX438,2024-03-06 10:30:00,HP Spectre x360,Laptop,Fitri Handayani,Bandung,Mobile App,1,26000000,10,DLV-02
+TRX439,2024-03-07 17:00:00,Samsung Galaxy Watch 6,Aksesoris,Gilang Ramadhan,Surabaya,In-Store,2,5000000,0,DLV-02
+TRX440,2024-03-08 19:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,15,SHP-01
+TRX441,2024-04-10 09:00:00,iPhone 15,Smartphone, Indra Maulana,Medan,Website,1,21000000,10,DLV-02
+TRX442,2024-04-11 16:00:00,Samsung Galaxy S24,Smartphone,Joko Susilo,Jakarta,Mobile App,1,18500000,10,DLV-02
+TRX443,2024-04-12 20:30:00,Sony WH-1000XM5,Audio,Kartika Sari,Semarang,In-Store,1,5500000,0,DLV-02
+TRX444,2024-04-13 10:00:00,Dell XPS 15,Laptop,Lina Marlina,Surabaya,Website,1,32000000,15,SHP-01
+TRX445,2024-04-14 12:45:00,Apple Watch Series 9,Aksesoris,Mega Wati,Jakarta,Mobile App,1,7500000,5,DLV-02
+TRX446,2024-04-15 17:30:00,MacBook Air M2,Laptop,Nanda Putra,Bandung,Website,1,23000000,10,DLV-02
+TRX447,2024-04-16 22:00:00,JBL Charge 5,Audio,Putri Amelia,Jakarta,In-Store,1,2500000,0,RTN-03
+TRX448,2024-04-17 14:30:00,Samsung Odyssey G9,Monitor,Siti Lestari ,Bandung,Mobile App,1,28000000,15,SHP-01
+TRX449,2024-04-18 11:30:00,Logitech MX Master 3S,Aksesoris,Budi Santoso,Jakarta,Website,2,1800000,5,DLV-02
+TRX450,2024-04-19 19:00:00,Google Pixel 8,Smartphone,Agus Wijaya,Jakarta,Mobile App,1,15000000,10,DLV-02
+TRX451,2024-04-20 13:30:00,AirPods Pro 2,Audio,Dewi Puspita,Surabaya,In-Store,1,4000000,0,DLV-02
+TRX452,2024-04-21 16:30:00,ASUS ROG Zephyrus G14,Laptop, Eko Prasetyo ,Yogyakarta,Website,1,29500000,15,DLV-02
+TRX453,2024-04-22 18:50:00,Anker PowerCore 10000,Aksesoris,Fitri Handayani,Bandung,Mobile App,1,500000,5,DLV-02
+TRX454,2024-04-23 21:15:00,LG UltraGear 27,Monitor,Gilang Ramadhan,Surabaya,Website,1,9500000,10,DLV-02
+TRX455,2024-04-24 15:00:00,Xiaomi 14,Smartphone,Hana Yuliana,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX456,2024-04-25 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Joko Susilo,Jakarta,Mobile App,1,35000000,15,SHP-01
+TRX457,2024-04-26 09:45:00,Bose QuietComfort Ultra,Audio,Indra Maulana,Medan,Website,1,6200000,5,CNL-04
+TRX458,2024-04-27 11:00:00,HP Spectre x360,Laptop,Kartika Sari,Semarang,Mobile App,1,26000000,10,DLV-02
+TRX459,2024-04-28 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Lina Marlina,Surabaya,In-Store,1,5000000,0,DLV-02
+TRX460,2024-04-29 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,15,SHP-01
+TRX461,2024-05-15 09:00:00,iPhone 15,Smartphone,Mega Wati,Jakarta,Website,1,21000000,10,DLV-02
+TRX462,2024-05-16 16:30:00,Samsung Galaxy S24,Smartphone,Nanda Putra,Bandung,Mobile App,1,18500000,10,DLV-02
+TRX463,2024-05-17 21:00:00,Sony WH-1000XM5,Audio,Putri Amelia,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX464,2024-05-18 10:30:00,Dell XPS 15,Laptop,Siti Lestari ,Bandung,Website,1,32000000,15,SHP-01
+TRX465,2024-05-19 13:15:00,Apple Watch Series 9,Aksesoris,Budi Santoso,Jakarta,Mobile App,1,7500000,5,DLV-02
+TRX466,2024-05-20 18:00:00,MacBook Air M2,Laptop,Agus Wijaya,Jakarta,Website,1,23000000,10,DLV-02
+TRX467,2024-05-21 22:30:00,JBL Charge 5,Audio,Dewi Puspita,Surabaya,In-Store,2,2500000,0,DLV-02
+TRX468,2024-05-22 15:00:00,Samsung Odyssey G9,Monitor, Eko Prasetyo ,Yogyakarta,Mobile App,1,28000000,15,SHP-01
+TRX469,2024-05-23 12:00:00,Logitech MX Master 3S,Aksesoris,Fitri Handayani,Bandung,Website,1,1800000,5,DLV-02
+TRX470,2024-05-24 19:30:00,Google Pixel 8,Smartphone,Gilang Ramadhan,Surabaya,Mobile App,1,15000000,10,DLV-02
+TRX471,2024-05-25 14:00:00,AirPods Pro 2,Audio,Hana Yuliana,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX472,2024-05-26 17:00:00,ASUS ROG Zephyrus G14,Laptop,Indra Maulana,Medan,Website,1,29500000,15,RTN-03
+TRX473,2024-05-27 19:20:00,Anker PowerCore 10000,Aksesoris,Joko Susilo,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX474,2024-05-28 21:45:00,LG UltraGear 27,Monitor,Kartika Sari,Semarang,Website,1,9500000,10,DLV-02
+TRX475,2024-05-29 15:30:00,Xiaomi 14,Smartphone,Lina Marlina,Surabaya,In-Store,1,12000000,0,DLV-02
+TRX476,2024-05-30 12:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Nanda Putra,Bandung,Mobile App,1,35000000,15,SHP-01
+TRX477,2024-05-31 10:15:00,Bose QuietComfort Ultra,Audio,Mega Wati,Jakarta,Website,1,6200000,5,DLV-02
+TRX478,2024-06-01 11:30:00,HP Spectre x360,Laptop,Putri Amelia,Jakarta,Mobile App,1,26000000,10,CNL-04
+TRX479,2024-06-02 18:00:00,Samsung Galaxy Watch 6,Aksesoris,Siti Lestari ,Bandung,In-Store,1,5000000,0,DLV-02
+TRX480,2024-06-03 20:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,15,SHP-01
+TRX481,2024-06-20 08:30:00,iPhone 15,Smartphone,Agus Wijaya,Jakarta,Website,1,21000000,5,DLV-02
+TRX482,2024-06-21 15:00:00,Samsung Galaxy S24,Smartphone,Dewi Puspita,Surabaya,Mobile App,1,18500000,5,DLV-02
+TRX483,2024-06-22 19:30:00,Sony WH-1000XM5,Audio, Eko Prasetyo ,Yogyakarta,In-Store,1,5500000,0,DLV-02
+TRX484,2024-06-23 10:00:00,Dell XPS 15,Laptop,Fitri Handayani,Bandung,Website,1,32000000,10,SHP-01
+TRX485,2024-06-24 12:30:00,Apple Watch Series 9,Aksesoris,Gilang Ramadhan,Surabaya,Mobile App,1,7500000,5,DLV-02
+TRX486,2024-06-25 17:00:00,MacBook Air M2,Laptop,Hana Yuliana,Jakarta,Website,1,23000000,10,DLV-02
+TRX487,2024-06-26 21:30:00,JBL Charge 5,Audio,Indra Maulana,Medan,In-Store,1,2500000,0,DLV-02
+TRX488,2024-06-27 14:00:00,Samsung Odyssey G9,Monitor,Joko Susilo,Jakarta,Mobile App,1,28000000,10,SHP-01
+TRX489,2024-06-28 11:00:00,Logitech MX Master 3S,Aksesoris,Kartika Sari,Semarang,Website,1,1800000,5,DLV-02
+TRX490,2024-06-29 18:30:00,Google Pixel 8,Smartphone,Lina Marlina,Surabaya,Mobile App,1,15000000,5,RTN-03
+TRX491,2024-06-30 13:00:00,AirPods Pro 2,Audio,Mega Wati,Jakarta,In-Store,2,4000000,0,DLV-02
+TRX492,2024-07-01 16:00:00,ASUS ROG Zephyrus G14,Laptop,Nanda Putra,Bandung,Website,1,29500000,10,DLV-02
+TRX493,2024-07-02 18:20:00,Anker PowerCore 10000,Aksesoris,Putri Amelia,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX494,2024-07-03 20:45:00,LG UltraGear 27,Monitor,Siti Lestari ,Bandung,Website,1,9500000,5,DLV-02
+TRX495,2024-07-04 14:30:00,Xiaomi 14,Smartphone,Budi Santoso,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX496,2024-07-05 11:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Agus Wijaya,Jakarta,Mobile App,1,35000000,10,SHP-01
+TRX497,2024-07-06 09:15:00,Bose QuietComfort Ultra,Audio,Dewi Puspita,Surabaya,Website,1,6200000,5,DLV-02
+TRX498,2024-07-07 10:30:00,HP Spectre x360,Laptop, Eko Prasetyo ,Yogyakarta,Mobile App,1,26000000,5,CNL-04
+TRX499,2024-07-08 17:00:00,Samsung Galaxy Watch 6,Aksesoris,Fitri Handayani,Bandung,In-Store,1,5000000,0,DLV-02
+TRX500,2024-07-09 19:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,10,SHP-01
+TRX501,2024-08-15 09:00:00,iPhone 15,Smartphone,Gilang Ramadhan,Surabaya,Website,1,21000000,15,DLV-02
+TRX502,2024-08-16 16:00:00,Samsung Galaxy S24,Smartphone,Hana Yuliana,Jakarta,Mobile App,1,18500000,15,DLV-02
+TRX503,2024-08-17 20:30:00,Sony WH-1000XM5,Audio,Indra Maulana,Medan,In-Store,1,5500000,0,DLV-02
+TRX504,2024-08-18 10:00:00,Dell XPS 15,Laptop,Joko Susilo,Jakarta,Website,1,32000000,20,SHP-01
+TRX505,2024-08-19 12:45:00,Apple Watch Series 9,Aksesoris,Kartika Sari,Semarang,Mobile App,1,7500000,10,DLV-02
+TRX506,2024-08-20 17:30:00,MacBook Air M2,Laptop,Lina Marlina,Surabaya,Website,1,23000000,15,DLV-02
+TRX507,2024-08-21 22:00:00,JBL Charge 5,Audio,Mega Wati,Jakarta,In-Store,1,2500000,0,DLV-02
+TRX508,2024-08-22 14:30:00,Samsung Odyssey G9,Monitor,Nanda Putra,Bandung,Mobile App,1,28000000,20,SHP-01
+TRX509,2024-08-23 11:30:00,Logitech MX Master 3S,Aksesoris,Putri Amelia,Jakarta,Website,1,1800000,10,DLV-02
+TRX510,2024-08-24 19:00:00,Google Pixel 8,Smartphone,Siti Lestari ,Bandung,Mobile App,1,15000000,15,DLV-02
+TRX511,2024-08-25 13:30:00,AirPods Pro 2,Audio,Budi Santoso,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX512,2024-08-26 16:30:00,ASUS ROG Zephyrus G14,Laptop,Agus Wijaya,Jakarta,Website,1,29500000,20,RTN-03
+TRX513,2024-08-27 18:50:00,Anker PowerCore 10000,Aksesoris,Dewi Puspita,Surabaya,Mobile App,2,500000,10,DLV-02
+TRX514,2024-08-28 21:15:00,LG UltraGear 27,Monitor, Eko Prasetyo ,Yogyakarta,Website,1,9500000,15,DLV-02
+TRX515,2024-08-29 15:00:00,Xiaomi 14,Smartphone,Fitri Handayani,Bandung,In-Store,1,12000000,0,DLV-02
+TRX516,2024-08-30 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Gilang Ramadhan,Surabaya,Mobile App,1,35000000,20,SHP-01
+TRX517,2024-08-31 09:45:00,Bose QuietComfort Ultra,Audio,Hana Yuliana,Jakarta,Website,1,6200000,10,DLV-02
+TRX518,2024-09-01 11:00:00,HP Spectre x360,Laptop,Indra Maulana,Medan,Mobile App,1,26000000,15,DLV-02
+TRX519,2024-09-02 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Joko Susilo,Jakarta,In-Store,1,5000000,0,CNL-04
+TRX520,2024-09-03 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,20,SHP-01
+TRX521,2024-09-25 09:00:00,iPhone 15,Smartphone,Kartika Sari,Semarang,Website,1,21000000,5,DLV-02
+TRX522,2024-09-26 16:00:00,Samsung Galaxy S24,Smartphone,Lina Marlina,Surabaya,Mobile App,1,18500000,5,DLV-02
+TRX523,2024-09-27 20:30:00,Sony WH-1000XM5,Audio,Mega Wati,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX524,2024-09-28 10:00:00,Dell XPS 15,Laptop,Nanda Putra,Bandung,Website,1,32000000,10,SHP-01
+TRX525,2024-09-29 12:45:00,Apple Watch Series 9,Aksesoris,Putri Amelia,Jakarta,Mobile App,1,7500000,5,DLV-02
+TRX526,2024-09-30 17:30:00,MacBook Air M2,Laptop,Siti Lestari ,Bandung,Website,1,23000000,10,DLV-02
+TRX527,2024-10-01 22:00:00,JBL Charge 5,Audio,Budi Santoso,Jakarta,In-Store,1,2500000,0,DLV-02
+TRX528,2024-10-02 14:30:00,Samsung Odyssey G9,Monitor,Agus Wijaya,Jakarta,Mobile App,1,28000000,10,SHP-01
+TRX529,2024-10-03 11:30:00,Logitech MX Master 3S,Aksesoris,Dewi Puspita,Surabaya,Website,1,1800000,5,DLV-02
+TRX530,2024-10-04 19:00:00,Google Pixel 8,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,15000000,5,DLV-02
+TRX531,2024-10-05 13:30:00,AirPods Pro 2,Audio,Fitri Handayani,Bandung,In-Store,1,4000000,0,RTN-03
+TRX532,2024-10-06 16:30:00,ASUS ROG Zephyrus G14,Laptop,Gilang Ramadhan,Surabaya,Website,1,29500000,10,DLV-02
+TRX533,2024-10-07 18:50:00,Anker PowerCore 10000,Aksesoris,Hana Yuliana,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX534,2024-10-08 21:15:00,LG UltraGear 27,Monitor,Indra Maulana,Medan,Website,1,9500000,5,DLV-02
+TRX535,2024-10-09 15:00:00,Xiaomi 14,Smartphone,Joko Susilo,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX536,2024-10-10 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Kartika Sari,Semarang,Mobile App,1,35000000,10,SHP-01
+TRX537,2024-10-11 09:45:00,Bose QuietComfort Ultra,Audio,Lina Marlina,Surabaya,Website,1,6200000,5,DLV-02
+TRX538,2024-10-12 11:00:00,HP Spectre x360,Laptop,Mega Wati,Jakarta,Mobile App,1,26000000,5,DLV-02
+TRX539,2024-10-13 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Nanda Putra,Bandung,In-Store,1,5000000,0,DLV-02
+TRX540,2024-10-14 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,10,SHP-01
+TRX541,2024-11-01 10:00:00,iPhone 15,Smartphone,Putri Amelia,Jakarta,Website,1,21000000,15,DLV-02
+TRX542,2024-11-02 16:30:00,Samsung Galaxy S24,Smartphone,Siti Lestari ,Bandung,Mobile App,1,18500000,15,DLV-02
+TRX543,2024-11-03 21:00:00,Sony WH-1000XM5,Audio,Budi Santoso,Jakarta,In-Store,1,5500000,0,CNL-04
+TRX544,2024-11-04 10:30:00,Dell XPS 15,Laptop,Agus Wijaya,Jakarta,Website,1,32000000,20,SHP-01
+TRX545,2024-11-05 13:15:00,Apple Watch Series 9,Aksesoris,Dewi Puspita,Surabaya,Mobile App,1,7500000,10,DLV-02
+TRX546,2024-11-06 18:00:00,MacBook Air M2,Laptop, Eko Prasetyo ,Yogyakarta,Website,1,23000000,15,DLV-02
+TRX547,2024-11-07 22:30:00,JBL Charge 5,Audio,Fitri Handayani,Bandung,In-Store,1,2500000,0,DLV-02
+TRX548,2024-11-08 15:00:00,Samsung Odyssey G9,Monitor,Gilang Ramadhan,Surabaya,Mobile App,1,28000000,20,SHP-01
+TRX549,2024-11-09 12:00:00,Logitech MX Master 3S,Aksesoris,Hana Yuliana,Jakarta,Website,1,1800000,10,DLV-02
+TRX550,2024-11-10 19:30:00,Google Pixel 8,Smartphone,Indra Maulana,Medan,Mobile App,1,15000000,15,DLV-02
+TRX551,2024-11-11 14:00:00,AirPods Pro 2,Audio,Joko Susilo,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX552,2024-11-12 17:00:00,ASUS ROG Zephyrus G14,Laptop,Kartika Sari,Semarang,Website,1,29500000,20,DLV-02
+TRX553,2024-11-13 19:20:00,Anker PowerCore 10000,Aksesoris,Lina Marlina,Surabaya,Mobile App,3,500000,10,DLV-02
+TRX554,2024-11-14 21:45:00,LG UltraGear 27,Monitor,Mega Wati,Jakarta,Website,1,9500000,15,DLV-02
+TRX555,2024-11-15 15:30:00,Xiaomi 14,Smartphone,Nanda Putra,Bandung,In-Store,1,12000000,0,DLV-02
+TRX556,2024-11-16 12:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Siti Lestari ,Bandung,Mobile App,1,35000000,20,SHP-01
+TRX557,2024-11-17 10:15:00,Bose QuietComfort Ultra,Audio,Putri Amelia,Jakarta,Website,1,6200000,10,RTN-03
+TRX558,2024-11-18 11:30:00,HP Spectre x360,Laptop,Budi Santoso,Jakarta,Mobile App,1,26000000,15,DLV-02
+TRX559,2024-11-19 18:00:00,Samsung Galaxy Watch 6,Aksesoris,Agus Wijaya,Jakarta,In-Store,1,5000000,0,DLV-02
+TRX560,2024-11-20 20:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,20,SHP-01
+TRX561,2024-12-11 08:30:00,iPhone 15,Smartphone,Dewi Puspita,Surabaya,Website,1,21000000,5,DLV-02
+TRX562,2024-12-12 15:00:00,Samsung Galaxy S24,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,18500000,5,DLV-02
+TRX563,2024-12-13 19:30:00,Sony WH-1000XM5,Audio,Fitri Handayani,Bandung,In-Store,1,5500000,0,DLV-02
+TRX564,2024-12-14 10:00:00,Dell XPS 15,Laptop,Gilang Ramadhan,Surabaya,Website,1,32000000,10,SHP-01
+TRX565,2024-12-15 12:30:00,Apple Watch Series 9,Aksesoris,Hana Yuliana,Jakarta,Mobile App,1,7500000,5,DLV-02
+TRX566,2024-12-16 17:00:00,MacBook Air M2,Laptop,Indra Maulana,Medan,Website,1,23000000,10,DLV-02
+TRX567,2024-12-17 21:30:00,JBL Charge 5,Audio,Joko Susilo,Jakarta,In-Store,1,2500000,0,DLV-02
+TRX568,2024-12-18 14:00:00,Samsung Odyssey G9,Monitor,Kartika Sari,Semarang,Mobile App,1,28000000,10,SHP-01
+TRX569,2024-12-19 11:00:00,Logitech MX Master 3S,Aksesoris,Lina Marlina,Surabaya,Website,1,1800000,5,DLV-02
+TRX570,2024-12-20 18:30:00,Google Pixel 8,Smartphone,Mega Wati,Jakarta,Mobile App,1,15000000,5,DLV-02
+TRX571,2024-12-21 13:00:00,AirPods Pro 2,Audio,Nanda Putra,Bandung,In-Store,1,4000000,0,DLV-02
+TRX572,2024-12-22 16:00:00,ASUS ROG Zephyrus G14,Laptop,Putri Amelia,Jakarta,Website,1,29500000,10,DLV-02
+TRX573,2024-12-23 18:20:00,Anker PowerCore 10000,Aksesoris,Siti Lestari ,Bandung,Mobile App,1,500000,5,CNL-04
+TRX574,2024-12-24 20:45:00,LG UltraGear 27,Monitor,Budi Santoso,Jakarta,Website,1,9500000,5,DLV-02
+TRX575,2024-12-25 14:30:00,Xiaomi 14,Smartphone,Agus Wijaya,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX576,2024-12-26 11:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Dewi Puspita,Surabaya,Mobile App,1,35000000,10,SHP-01
+TRX577,2024-12-27 09:15:00,Bose QuietComfort Ultra,Audio, Eko Prasetyo ,Yogyakarta,Website,1,6200000,5,DLV-02
+TRX578,2024-12-28 10:30:00,HP Spectre x360,Laptop,Fitri Handayani,Bandung,Mobile App,1,26000000,5,DLV-02
+TRX579,2024-12-29 17:00:00,Samsung Galaxy Watch 6,Aksesoris,Gilang Ramadhan,Surabaya,In-Store,1,5000000,0,RTN-03
+TRX580,2024-12-30 19:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,10,SHP-01
+TRX581,2024-01-15 09:00:00,iPhone 15,Smartphone,Hana Yuliana,Jakarta,Website,1,21000000,15,DLV-02
+TRX582,2024-02-15 16:00:00,Samsung Galaxy S24,Smartphone,Indra Maulana,Medan,Mobile App,1,18500000,15,DLV-02
+TRX583,2024-03-15 20:30:00,Sony WH-1000XM5,Audio,Joko Susilo,Jakarta,In-Store,2,5500000,0,DLV-02
+TRX584,2024-04-15 10:00:00,Dell XPS 15,Laptop,Kartika Sari,Semarang,Website,1,32000000,20,SHP-01
+TRX585,2024-05-15 12:45:00,Apple Watch Series 9,Aksesoris,Lina Marlina,Surabaya,Mobile App,1,7500000,10,DLV-02
+TRX586,2024-06-15 17:30:00,MacBook Air M2,Laptop,Mega Wati,Jakarta,Website,1,23000000,15,DLV-02
+TRX587,2024-07-15 22:00:00,JBL Charge 5,Audio,Nanda Putra,Bandung,In-Store,1,2500000,0,DLV-02
+TRX588,2024-08-15 14:30:00,Samsung Odyssey G9,Monitor,Putri Amelia,Jakarta,Mobile App,1,28000000,20,SHP-01
+TRX589,2024-09-15 11:30:00,Logitech MX Master 3S,Aksesoris,Siti Lestari ,Bandung,Website,1,1800000,10,DLV-02
+TRX590,2024-10-15 19:00:00,Google Pixel 8,Smartphone,Budi Santoso,Jakarta,Mobile App,1,15000000,15,DLV-02
+TRX591,2024-11-15 13:30:00,AirPods Pro 2,Audio,Agus Wijaya,Jakarta,In-Store,1,4000000,0,DLV-02
+TRX592,2024-12-15 16:30:00,ASUS ROG Zephyrus G14,Laptop,Dewi Puspita,Surabaya,Website,1,29500000,20,DLV-02
+TRX593,2024-01-20 18:50:00,Anker PowerCore 10000,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,500000,10,DLV-02
+TRX594,2024-02-20 21:15:00,LG UltraGear 27,Monitor,Fitri Handayani,Bandung,Website,1,9500000,15,DLV-02
+TRX595,2024-03-20 15:00:00,Xiaomi 14,Smartphone,Gilang Ramadhan,Surabaya,In-Store,1,12000000,0,DLV-02
+TRX596,2024-04-20 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Hana Yuliana,Jakarta,Mobile App,1,35000000,20,SHP-01
+TRX597,2024-05-20 09:45:00,Bose QuietComfort Ultra,Audio,Indra Maulana,Medan,Website,1,6200000,10,DLV-02
+TRX598,2024-06-20 11:00:00,HP Spectre x360,Laptop,Joko Susilo,Jakarta,Mobile App,1,26000000,15,CNL-04
+TRX599,2024-07-20 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Kartika Sari,Semarang,In-Store,1,5000000,0,DLV-02
+TRX600,2024-08-20 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,20,SHP-01
+TRX601,2024-01-18 09:00:00,iPhone 15,Smartphone,Lina Marlina,Surabaya,Website,1,21000000,5,DLV-02
+TRX602,2024-02-18 16:30:00,Samsung Galaxy S24,Smartphone,Mega Wati,Jakarta,Mobile App,1,18500000,5,RTN-03
+TRX603,2024-03-18 21:00:00,Sony WH-1000XM5,Audio,Nanda Putra,Bandung,In-Store,1,5500000,0,DLV-02
+TRX604,2024-04-18 10:30:00,Dell XPS 15,Laptop,Putri Amelia,Jakarta,Website,1,32000000,10,SHP-01
+TRX605,2024-05-18 13:15:00,Apple Watch Series 9,Aksesoris,Siti Lestari ,Bandung,Mobile App,1,7500000,5,DLV-02
+TRX606,2024-06-18 18:00:00,MacBook Air M2,Laptop,Budi Santoso,Jakarta,Website,1,23000000,10,DLV-02
+TRX607,2024-07-18 22:30:00,JBL Charge 5,Audio,Agus Wijaya,Jakarta,In-Store,1,2500000,0,DLV-02
+TRX608,2024-08-18 15:00:00,Samsung Odyssey G9,Monitor,Dewi Puspita,Surabaya,Mobile App,1,28000000,10,SHP-01
+TRX609,2024-09-18 12:00:00,Logitech MX Master 3S,Aksesoris, Eko Prasetyo ,Yogyakarta,Website,1,1800000,5,DLV-02
+TRX610,2024-10-18 19:30:00,Google Pixel 8,Smartphone,Fitri Handayani,Bandung,Mobile App,1,15000000,5,DLV-02
+TRX611,2024-11-18 14:00:00,AirPods Pro 2,Audio,Gilang Ramadhan,Surabaya,In-Store,2,4000000,0,DLV-02
+TRX612,2024-12-18 17:00:00,ASUS ROG Zephyrus G14,Laptop,Hana Yuliana,Jakarta,Website,1,29500000,10,DLV-02
+TRX613,2024-01-22 18:50:00,Anker PowerCore 10000,Aksesoris,Indra Maulana,Medan,Mobile App,1,500000,5,DLV-02
+TRX614,2024-02-22 21:15:00,LG UltraGear 27,Monitor,Joko Susilo,Jakarta,Website,1,9500000,5,DLV-02
+TRX615,2024-03-22 15:00:00,Xiaomi 14,Smartphone,Kartika Sari,Semarang,In-Store,1,12000000,0,DLV-02
+TRX616,2024-04-22 12:20:00,Lenovo ThinkPad X1 Carbon,Laptop,Lina Marlina,Surabaya,Mobile App,1,35000000,10,SHP-01
+TRX617,2024-05-22 09:45:00,Bose QuietComfort Ultra,Audio,Mega Wati,Jakarta,Website,1,6200000,5,DLV-02
+TRX618,2024-06-22 11:00:00,HP Spectre x360,Laptop,Nanda Putra,Bandung,Mobile App,1,26000000,5,CNL-04
+TRX619,2024-07-22 17:30:00,Samsung Galaxy Watch 6,Aksesoris,Putri Amelia,Jakarta,In-Store,1,5000000,0,DLV-02
+TRX620,2024-08-22 20:10:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,10,SHP-01
+TRX621,2024-01-28 10:00:00,iPhone 15,Smartphone,Siti Lestari ,Bandung,Website,1,21000000,20,DLV-02
+TRX622,2024-02-28 16:30:00,Samsung Galaxy S24,Smartphone,Budi Santoso,Jakarta,Mobile App,1,18500000,20,DLV-02
+TRX623,2024-03-28 21:00:00,Sony WH-1000XM5,Audio,Agus Wijaya,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX624,2024-04-28 10:30:00,Dell XPS 15,Laptop,Dewi Puspita,Surabaya,Website,1,32000000,25,SHP-01
+TRX625,2024-05-28 13:15:00,Apple Watch Series 9,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,7500000,15,DLV-02
+TRX626,2024-06-28 18:00:00,MacBook Air M2,Laptop,Fitri Handayani,Bandung,Website,1,23000000,20,DLV-02
+TRX627,2024-07-28 22:30:00,JBL Charge 5,Audio,Gilang Ramadhan,Surabaya,In-Store,1,2500000,0,DLV-02
+TRX628,2024-08-28 15:00:00,Samsung Odyssey G9,Monitor,Hana Yuliana,Jakarta,Mobile App,1,28000000,25,SHP-01
+TRX629,2024-09-28 12:00:00,Logitech MX Master 3S,Aksesoris,Indra Maulana,Medan,Website,1,1800000,15,DLV-02
+TRX630,2024-10-28 19:30:00,Google Pixel 8,Smartphone,Joko Susilo,Jakarta,Mobile App,1,15000000,20,RTN-03
+TRX631,2024-11-28 14:00:00,AirPods Pro 2,Audio,Kartika Sari,Semarang,In-Store,1,4000000,0,DLV-02
+TRX632,2024-12-28 17:00:00,ASUS ROG Zephyrus G14,Laptop,Lina Marlina,Surabaya,Website,1,29500000,25,DLV-02
+TRX633,2024-01-18 19:20:00,Anker PowerCore 10000,Aksesoris,Mega Wati,Jakarta,Mobile App,1,500000,15,DLV-02
+TRX634,2024-02-18 21:45:00,LG UltraGear 27,Monitor,Nanda Putra,Bandung,Website,1,9500000,20,DLV-02
+TRX635,2024-03-18 15:30:00,Xiaomi 14,Smartphone,Putri Amelia,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX636,2024-04-18 12:50:00,Lenovo ThinkPad X1 Carbon,Laptop,Siti Lestari ,Bandung,Mobile App,1,35000000,25,SHP-01
+TRX637,2024-05-18 10:15:00,Bose QuietComfort Ultra,Audio,Budi Santoso,Jakarta,Website,1,6200000,15,DLV-02
+TRX638,2024-06-18 11:30:00,HP Spectre x360,Laptop,Agus Wijaya,Jakarta,Mobile App,1,26000000,20,DLV-02
+TRX639,2024-07-18 18:00:00,Samsung Galaxy Watch 6,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,5000000,0,DLV-02
+TRX640,2024-08-18 20:40:00,Razer Blade 15,Laptop,Budi Santoso,Jakarta,Website,1,42000000,25,SHP-01
+TRX641,2024-01-21 09:30:00,Sony WH-1000XM5,Audio,Siti Lestari ,Bandung,Mobile App,1,5500000,5,DLV-02
+TRX642,2024-02-22 11:00:00,Dell XPS 15,Laptop,Indra Maulana,Medan,Website,1,32000000,15,SHP-01
+TRX643,2024-03-23 14:00:00,Apple Watch Series 9,Aksesoris,Joko Susilo,Jakarta,In-Store,1,7500000,0,DLV-02
+TRX644,2024-04-24 16:45:00,MacBook Air M2,Laptop,Kartika Sari,Semarang,Mobile App,1,23000000,10,DLV-02
+TRX645,2024-05-25 18:20:00,JBL Charge 5,Audio,Lina Marlina,Surabaya,Website,1,2500000,5,DLV-02
+TRX646,2024-06-26 10:15:00,Samsung Odyssey G9,Monitor,Mega Wati,Jakarta,In-Store,1,28000000,0,DLV-02
+TRX647,2024-07-27 13:00:00,Logitech MX Master 3S,Aksesoris,Nanda Putra,Bandung,Mobile App,2,1800000,5,CNL-04
+TRX648,2024-08-28 15:45:00,Google Pixel 8,Smartphone,Putri Amelia,Jakarta,Website,1,15000000,10,DLV-02
+TRX649,2024-09-29 17:30:00,AirPods Pro 2,Audio,Siti Lestari ,Bandung,In-Store,1,4000000,0,DLV-02
+TRX650,2024-10-30 19:00:00,ASUS ROG Zephyrus G14,Laptop,Budi Santoso,Jakarta,Mobile App,1,29500000,15,RTN-03
+TRX651,2024-11-01 08:50:00,Anker PowerCore 10000,Aksesoris,Agus Wijaya,Jakarta,Website,1,500000,5,DLV-02
+TRX652,2024-12-02 11:20:00,LG UltraGear 27,Monitor,Dewi Puspita,Surabaya,In-Store,1,9500000,0,DLV-02
+TRX653,2024-01-03 14:10:00,Xiaomi 14,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,12000000,5,DLV-02
+TRX654,2024-02-04 16:55:00,Lenovo ThinkPad X1 Carbon,Laptop,Fitri Handayani,Bandung,Website,1,35000000,15,SHP-01
+TRX655,2024-03-05 18:40:00,Bose QuietComfort Ultra,Audio,Gilang Ramadhan,Surabaya,In-Store,1,6200000,0,DLV-02
+TRX656,2024-04-06 09:00:00,HP Spectre x360,Laptop,Hana Yuliana,Jakarta,Mobile App,1,26000000,10,DLV-02
+TRX657,2024-05-07 11:30:00,Samsung Galaxy Watch 6,Aksesoris,Indra Maulana,Medan,Website,1,5000000,5,DLV-02
+TRX658,2024-06-08 14:20:00,Razer Blade 15,Laptop,Joko Susilo,Jakarta,In-Store,1,42000000,0,SHP-01
+TRX659,2024-07-09 17:00:00,iPhone 15,Smartphone,Kartika Sari,Semarang,Mobile App,1,21000000,10,DLV-02
+TRX660,2024-08-10 19:45:00,Samsung Galaxy S24,Smartphone,Lina Marlina,Surabaya,Website,1,18500000,10,DLV-02
+TRX661,2024-09-11 08:20:00,Sony WH-1000XM5,Audio,Mega Wati,Jakarta,In-Store,1,5500000,0,DLV-02
+TRX662,2024-10-12 10:50:00,Dell XPS 15,Laptop,Nanda Putra,Bandung,Mobile App,1,32000000,15,SHP-01
+TRX663,2024-11-13 13:40:00,Apple Watch Series 9,Aksesoris,Putri Amelia,Jakarta,Website,1,7500000,5,DLV-02
+TRX664,2024-12-14 16:25:00,MacBook Air M2,Laptop,Siti Lestari ,Bandung,In-Store,1,23000000,0,DLV-02
+TRX665,2024-01-15 18:10:00,JBL Charge 5,Audio,Budi Santoso,Jakarta,Mobile App,2,2500000,5,DLV-02
+TRX666,2024-02-16 09:45:00,Samsung Odyssey G9,Monitor,Agus Wijaya,Jakarta,Website,1,28000000,15,SHP-01
+TRX667,2024-03-17 12:15:00,Logitech MX Master 3S,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,1800000,0,DLV-02
+TRX668,2024-04-18 15:00:00,Google Pixel 8,Smartphone, Eko Prasetyo ,Yogyakarta,Mobile App,1,15000000,10,DLV-02
+TRX669,2024-05-19 17:45:00,AirPods Pro 2,Audio,Fitri Handayani,Bandung,Website,1,4000000,5,RTN-03
+TRX670,2024-06-20 19:30:00,ASUS ROG Zephyrus G14,Laptop,Gilang Ramadhan,Surabaya,In-Store,1,29500000,0,CNL-04
+TRX671,2024-07-21 08:00:00,Anker PowerCore 10000,Aksesoris,Hana Yuliana,Jakarta,Mobile App,1,500000,5,DLV-02
+TRX672,2024-08-22 10:30:00,LG UltraGear 27,Monitor,Indra Maulana,Medan,Website,1,9500000,10,DLV-02
+TRX673,2024-09-23 13:20:00,Xiaomi 14,Smartphone,Joko Susilo,Jakarta,In-Store,1,12000000,0,DLV-02
+TRX674,2024-10-24 16:00:00,Lenovo ThinkPad X1 Carbon,Laptop,Kartika Sari,Semarang,Mobile App,1,35000000,15,SHP-01
+TRX675,2024-11-25 18:45:00,Bose QuietComfort Ultra,Audio,Lina Marlina,Surabaya,Website,1,6200000,5,DLV-02
+TRX676,2024-12-26 09:10:00,HP Spectre x360,Laptop,Mega Wati,Jakarta,In-Store,1,26000000,0,DLV-02
+TRX677,2024-01-27 11:40:00,Samsung Galaxy Watch 6,Aksesoris,Nanda Putra,Bandung,Mobile App,1,5000000,5,DLV-02
+TRX678,2024-02-28 14:30:00,Razer Blade 15,Laptop,Putri Amelia,Jakarta,Website,1,42000000,15,SHP-01
+TRX679,2024-03-29 17:15:00,iPhone 15,Smartphone,Siti Lestari ,Bandung,In-Store,1,21000000,0,DLV-02
+TRX680,2024-04-30 19:00:00,Samsung Galaxy S24,Smartphone,Budi Santoso,Jakarta,Mobile App,1,18500000,10,DLV-02
+TRX681,2024-05-01 08:40:00,Sony WH-1000XM5,Audio,Agus Wijaya,Jakarta,Website,1,5500000,5,DLV-02
+TRX682,2024-06-02 11:10:00,Dell XPS 15,Laptop,Dewi Puspita,Surabaya,In-Store,1,32000000,0,SHP-01
+TRX683,2024-07-03 13:55:00,Apple Watch Series 9,Aksesoris, Eko Prasetyo ,Yogyakarta,Mobile App,1,7500000,5,DLV-02
+TRX684,2024-08-04 16:40:00,MacBook Air M2,Laptop,Fitri Handayani,Bandung,Website,1,23000000,10,DLV-02
+TRX685,2024-09-05 18:25:00,JBL Charge 5,Audio,Gilang Ramadhan,Surabaya,In-Store,1,2500000,0,DLV-02
+TRX686,2024-10-06 09:00:00,Samsung Odyssey G9,Monitor,Hana Yuliana,Jakarta,Mobile App,1,28000000,15,SHP-01
+TRX687,2024-11-07 11:25:00,Logitech MX Master 3S,Aksesoris,Indra Maulana,Medan,Website,1,1800000,5,DLV-02
+TRX688,2024-12-08 14:15:00,Google Pixel 8,Smartphone,Joko Susilo,Jakarta,In-Store,1,15000000,0,DLV-02
+TRX689,2024-01-09 16:50:00,AirPods Pro 2,Audio,Kartika Sari,Semarang,Mobile App,1,4000000,5,RTN-03
+TRX690,2024-02-10 18:35:00,ASUS ROG Zephyrus G14,Laptop,Lina Marlina,Surabaya,Website,1,29500000,15,CNL-04
+TRX691,2024-03-11 08:15:00,Anker PowerCore 10000,Aksesoris,Mega Wati,Jakarta,In-Store,3,500000,0,DLV-02
+TRX692,2024-04-12 10:45:00,LG UltraGear 27,Monitor,Nanda Putra,Bandung,Mobile App,1,9500000,10,DLV-02
+TRX693,2024-05-13 13:30:00,Xiaomi 14,Smartphone,Putri Amelia,Jakarta,Website,1,12000000,5,DLV-02
+TRX694,2024-06-14 16:15:00,Lenovo ThinkPad X1 Carbon,Laptop,Siti Lestari ,Bandung,In-Store,1,35000000,0,SHP-01
+TRX695,2024-07-15 18:00:00,Bose QuietComfort Ultra,Audio,Budi Santoso,Jakarta,Mobile App,1,6200000,5,DLV-02
+TRX696,2024-08-16 09:25:00,HP Spectre x360,Laptop,Agus Wijaya,Jakarta,Website,1,26000000,10,DLV-02
+TRX697,2024-09-17 12:00:00,Samsung Galaxy Watch 6,Aksesoris,Dewi Puspita,Surabaya,In-Store,1,5000000,0,DLV-02
+TRX698,2024-10-18 14:45:00,Razer Blade 15,Laptop, Eko Prasetyo ,Yogyakarta,Mobile App,1,42000000,15,SHP-01
+TRX699,2024-11-19 17:30:00,iPhone 15,Smartphone,Fitri Handayani,Bandung,Website,1,21000000,10,DLV-02
+TRX700,2024-12-20 19:15:00,Samsung Galaxy S24,Smartphone,Gilang Ramadhan,Surabaya,In-Store,1,18500000,0,DLV-02
