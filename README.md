@@ -38,4 +38,4 @@ Setelah menggali data, saya menemukan tiga insight utama yang bisa menjadi dasar
 
 Semua analisis dan insight di atas saya rangkum dalam sebuah dashboard visual yang ringkas.
 
-`![Dashboard Kinerja Penjualan](https://github.com/rizalcahyopoernomo/Analisa_Penjualan_Fiktif/blob/8b5e68cb7a6965aaa46d83a9106d2371b420ba4a/Dashboard%20(Latian)_page-0001.jpg)`
+`[Dashboard Kinerja Penjualan](https://raw.githubusercontent.com/rizalcahyopoernomo/Analisa_Penjualan_Fiktif/refs/heads/main/Dashboard%20(Latian)_page-0001.jpg)`
