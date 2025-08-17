@@ -38,5 +38,4 @@ Setelah menggali data, saya menemukan tiga insight utama yang bisa menjadi dasar
 
 Semua analisis dan insight di atas saya rangkum dalam sebuah dashboard visual yang ringkas.
 
-*(Jangan lupa ganti baris di bawah dengan screenshot dashboard-mu!)*
-`![Dashboard Kinerja Penjualan 2024](URL_SCREENSHOT_DASHBOARD_ANDA)`
+`![Dashboard Kinerja Penjualan 2024]([)](https://github.com/rizalcahyopoernomo/Analisa_Penjualan_Fiktif/blob/7f304e794a1460a331e897afd93a6f7b999d8e59/Dashboard%20(Latian).pdf)`
